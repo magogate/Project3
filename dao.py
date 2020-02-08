@@ -19,7 +19,7 @@ def getConnection():
     conn.population
     return conn.population
 
-def insertCityPopulation(cities_list):
+def insertUSCityPopulation(cities_list):
     # print(cities_list)
     db = getConnection()
 
@@ -31,9 +31,30 @@ def insertCityPopulation(cities_list):
         db.all_us_city_population.delete_many({})
         db.all_us_city_population.insert(cities_list)
 
-def getCityPopulation():
+def insertGACityPopulation(cities_list):
+    db = getConnection()
+    cityPopulation = list(db.ga_city_population.find())
+
+    if len(cityPopulation) < 1:
+        db.ga_city_population.insert(cities_list)
+    else:
+        # https://www.w3schools.com/python/python_mongodb_delete.asp
+        db.ga_city_population.delete_many({})
+        db.ga_city_population.insert(cities_list)
+    
+
+def getUSCityPopulation():
     db = getConnection()    
     cityPopulation = list(db.all_us_city_population.find({},{"population": 1, "_id":0, "city": 1, "accidents":1, "state":1}))
+    # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_json.html
+    df = pd.DataFrame(cityPopulation)
+    cityPopJson = df.to_json(orient='records')
+    # print(cityPopJson)
+    return cityPopJson
+
+def getGACityPopulation():
+    db = getConnection()    
+    cityPopulation = list(db.ga_city_population.find({},{"population": 1, "_id":0, "city": 1, "accidents":1, "state":1}))
     # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_json.html
     df = pd.DataFrame(cityPopulation)
     cityPopJson = df.to_json(orient='records')
