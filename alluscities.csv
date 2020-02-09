@@ -1,0 +1,4620 @@
+city,state,population,accidents
+birmingham,al,212237,3253
+montgomery,al,205764,1179
+mobile,al,195111,1497
+huntsville,al,180105,842
+tuscaloosa,al,90468,1341
+hoover,al,81619,14
+dothan,al,65496,33
+decatur,al,55683,181
+auburn,al,53380,40
+madison,al,42938,177
+florence,al,39319,7
+gadsden,al,36856,9
+prattville,al,33960,144
+alabaster,al,30352,60
+bessemer,al,27456,153
+enterprise,al,26562,3
+opelika,al,26477,54
+northport,al,23330,397
+anniston,al,23106,18
+athens,al,21897,35
+daphne,al,21570,98
+pelham,al,21352,88
+oxford,al,21348,16
+albertville,al,21160,2
+selma,al,20756,3
+trussville,al,19933,19
+troy,al,18033,14
+center point,al,16921,2
+helena,al,16793,14
+talladega,al,15676,6
+fairhope,al,15326,26
+ozark,al,14907,7
+cullman,al,14775,69
+scottsboro,al,14770,12
+millbrook,al,14640,39
+foley,al,14618,12
+jasper,al,14352,13
+hartselle,al,14255,55
+fort payne,al,14012,8
+gardendale,al,13893,41
+saraland,al,13405,56
+muscle shoals,al,13146,5
+eufaula,al,13137,2
+sylacauga,al,12749,13
+irondale,al,12349,3
+leeds,al,11773,91
+moody,al,11726,11
+calera,al,11620,58
+fairfield,al,11117,60
+atmore,al,10194,23
+chelsea,al,10183,41
+pleasant grove,al,10110,2
+tuskegee,al,9865,21
+russellville,al,9830,6
+gulf shores,al,9741,10
+boaz,al,9551,7
+valley,al,9524,2
+sheffield,al,9039,2
+andalusia,al,9015,5
+clanton,al,8619,397
+tuscumbia,al,8423,4
+fultondale,al,8380,41
+guntersville,al,8197,7
+greenville,al,8135,19
+arab,al,8050,6
+bay minette,al,8044,47
+pinson,al,7163,15
+hamilton,al,6885,6
+spanish fort,al,6798,125
+oneonta,al,6567,146
+wetumpka,al,6528,17
+lanett,al,6468,7
+montevallo,al,6323,25
+lincoln,al,6266,31
+satsuma,al,6168,13
+chickasaw,al,6106,1
+roanoke,al,6074,1
+attalla,al,6048,9
+orange beach,al,5441,2
+brewton,al,5408,23
+midfield,al,5365,1
+robertsdale,al,5276,33
+rainsville,al,4948,1
+brent,al,4947,5
+smiths station,al,4926,1
+piedmont,al,4878,1
+tallassee,al,4819,1
+winfield,al,4717,4
+fayette,al,4619,11
+adamsville,al,4522,2
+headland,al,4510,3
+geneva,al,4452,1
+columbiana,al,4197,15
+springville,al,4080,17
+union springs,al,3980,2
+evergreen,al,3944,13
+citronelle,al,3905,9
+marion,al,3686,3
+centre,al,3489,1
+livingston,al,3485,19
+heflin,al,3480,20
+moulton,al,3471,5
+dadeville,al,3230,4
+warrior,al,3176,87
+red bay,al,3158,1
+hanceville,al,2982,41
+new hope,al,2810,9
+centreville,al,2778,11
+jemison,al,2585,154
+bayou la batre,al,2558,1
+bayou la batre,al,2558,1
+york,al,2538,15
+greensboro,al,2497,2
+aliceville,al,2486,5
+lineville,al,2395,1
+guin,al,2376,14
+ashville,al,2212,11
+graysville,al,2165,7
+cordova,al,2095,4
+brundidge,al,2076,2
+stevenson,al,2046,1
+dora,al,2025,2
+carbon hill,al,2021,2
+camden,al,2020,1
+slocomb,al,1980,1
+sulligent,al,1927,1
+creola,al,1926,11
+clio,al,1399,2
+little rock,ar,193524,89
+fayetteville,ar,73580,13
+springdale,ar,69797,15
+jonesboro,ar,67263,3
+north little rock,ar,62304,43
+conway,ar,58908,2
+rogers,ar,55964,7
+pine bluff,ar,49083,9
+bentonville,ar,35301,1
+benton,ar,30681,9
+texarkana,ar,29919,6
+sherwood,ar,29523,2
+jacksonville,ar,28364,15
+russellville,ar,27920,3
+west memphis,ar,26245,28
+cabot,ar,23776,14
+searcy,ar,22858,1
+van buren,ar,22791,7
+el dorado,ar,18884,4
+maumelle,ar,17163,3
+bryant,ar,16688,1
+blytheville,ar,15620,5
+siloam springs,ar,15039,2
+harrison,ar,12943,1
+marion,ar,12345,59
+camden,ar,12183,2
+arkadelphia,ar,10714,1
+malvern,ar,10318,5
+batesville,ar,10248,1
+monticello,ar,9467,2
+stuttgart,ar,9326,4
+clarksville,ar,9178,2
+greenwood,ar,8952,1
+newport,ar,7879,2
+osceola,ar,7757,3
+lowell,ar,7327,1
+beebe,ar,7315,4
+trumann,ar,7243,2
+morrilton,ar,6767,2
+pocahontas,ar,6608,2
+warren,ar,6003,5
+white hall,ar,5526,1
+crossett,ar,5507,1
+alma,ar,5419,6
+walnut ridge,ar,4890,6
+dumas,ar,4706,1
+greenbrier,ar,4706,2
+nashville,ar,4627,1
+lonoke,ar,4245,5
+ozark,ar,3684,2
+waldron,ar,3618,1
+corning,ar,3377,6
+prescott,ar,3296,1
+brinkley,ar,3188,5
+atkins,ar,3016,2
+alexander,ar,2901,1
+bald knob,ar,2897,1
+pottsville,ar,2838,1
+green forest,ar,2761,4
+lake village,ar,2575,1
+marked tree,ar,2566,1
+charleston,ar,2494,3
+earle,ar,2414,1
+danville,ar,2409,1
+west fork,ar,2317,1
+dermott,ar,2316,3
+lincoln,ar,2249,1
+mayflower,ar,2234,3
+carlisle,ar,2214,3
+gurdon,ar,2212,4
+bono,ar,2131,1
+decatur,ar,1699,1
+brookland,ar,1642,1
+hazen,ar,1468,7
+perryville,ar,1460,2
+rison,ar,1344,2
+ola,ar,1281,1
+marvell,ar,1186,1
+luxora,ar,1178,1
+marmaduke,ar,1111,2
+horatio,ar,1044,2
+coal hill,ar,1012,1
+mammoth spring,ar,977,1
+bearden,ar,966,3
+gould,ar,837,3
+plumerville,ar,826,5
+tyronza,ar,762,1
+altus,ar,758,1
+palestine,ar,681,6
+black rock,ar,662,2
+turrell,ar,615,2
+holly grove,ar,602,1
+pangburn,ar,601,3
+joiner,ar,576,2
+taylor,ar,566,1
+grannis,ar,554,1
+hartman,ar,519,1
+kingsland,ar,447,1
+winslow,ar,391,1
+colt,ar,378,1
+wheatley,ar,355,3
+carthage,ar,343,1
+gilmore,ar,188,2
+ogden,ar,180,1
+los angeles,ca,3792621,15779
+san diego,ca,1307402,4489
+san jose,ca,945942,4082
+san francisco,ca,805235,2002
+fresno,ca,494665,1318
+sacramento,ca,466488,5088
+long beach,ca,462257,2413
+oakland,ca,390724,2858
+bakersfield,ca,347483,1235
+anaheim,ca,336265,2090
+santa ana,ca,324528,904
+riverside,ca,303871,2390
+stockton,ca,291707,804
+chula vista,ca,243916,149
+fremont,ca,214089,1180
+irvine,ca,212375,1125
+san bernardino,ca,209924,1691
+modesto,ca,201165,616
+oxnard,ca,197899,232
+fontana,ca,196069,787
+moreno valley,ca,193365,478
+glendale,ca,191719,561
+huntington beach,ca,189992,125
+santa clarita,ca,176320,205
+garden grove,ca,170883,501
+santa rosa,ca,167815,942
+oceanside,ca,167086,286
+rancho cucamonga,ca,165269,414
+ontario,ca,163924,1396
+lancaster,ca,156633,234
+elk grove,ca,153015,360
+palmdale,ca,152750,434
+corona,ca,152374,1736
+salinas,ca,150441,622
+pomona,ca,149058,1076
+torrance,ca,145438,554
+hayward,ca,144186,1354
+escondido,ca,143911,494
+sunnyvale,ca,140081,391
+pasadena,ca,137122,951
+orange,ca,136416,853
+fullerton,ca,135161,402
+thousand oaks,ca,126683,80
+visalia,ca,124442,265
+simi valley,ca,124237,170
+concord,ca,122067,590
+roseville,ca,118788,403
+santa clara,ca,116468,232
+vallejo,ca,115942,590
+victorville,ca,115903,190
+el monte,ca,113475,398
+berkeley,ca,112580,566
+downey,ca,111772,994
+costa mesa,ca,109960,489
+inglewood,ca,109673,821
+west covina,ca,106098,748
+norwalk,ca,105549,738
+carlsbad,ca,105328,264
+fairfield,ca,105321,778
+richmond,ca,103701,576
+murrieta,ca,103466,272
+burbank,ca,103340,544
+antioch,ca,102372,188
+temecula,ca,100097,380
+santa maria,ca,99553,229
+rialto,ca,99171,120
+san mateo,ca,97207,786
+compton,ca,96455,677
+clovis,ca,95631,65
+south gate,ca,94396,227
+vista,ca,93834,249
+mission viejo,ca,93305,265
+vacaville,ca,92428,340
+carson,ca,91714,539
+hesperia,ca,90173,263
+redding,ca,89861,150
+santa monica,ca,89736,256
+westminster,ca,89701,430
+santa barbara,ca,88410,356
+chico,ca,86187,155
+whittier,ca,85331,1543
+newport beach,ca,85186,37
+san leandro,ca,84950,667
+hawthorne,ca,84293,592
+san marcos,ca,83781,291
+citrus heights,ca,83301,127
+alhambra,ca,83089,427
+tracy,ca,82922,1035
+livermore,ca,80968,980
+buena park,ca,80530,365
+lakewood,ca,80048,97
+merced,ca,78958,161
+hemet,ca,78657,26
+chino,ca,77983,378
+menifee,ca,77519,97
+lake forest,ca,77264,104
+napa,ca,76915,394
+bellflower,ca,76616,278
+tustin,ca,75540,597
+baldwin park,ca,75390,1183
+chino hills,ca,74799,74
+mountain view,ca,74066,452
+alameda,ca,73812,4
+upland,ca,73732,203
+folsom,ca,72203,118
+san ramon,ca,72148,199
+pleasanton,ca,70285,644
+lynwood,ca,69772,497
+redlands,ca,68747,568
+turlock,ca,68549,186
+perris,ca,68386,375
+manteca,ca,67096,202
+milpitas,ca,66790,353
+redondo beach,ca,66748,35
+davis,ca,65622,282
+camarillo,ca,65201,225
+rancho cordova,ca,64776,252
+palo alto,ca,64403,424
+yorba linda,ca,64234,39
+walnut creek,ca,64173,604
+south san francisco,ca,63632,332
+san clemente,ca,63522,218
+pittsburg,ca,63264,493
+laguna niguel,ca,62979,60
+pico rivera,ca,62942,19
+montebello,ca,62500,211
+lodi,ca,62134,229
+madera,ca,61416,290
+monterey park,ca,60269,255
+la habra,ca,60239,14
+santa cruz,ca,59946,267
+encinitas,ca,59518,187
+tulare,ca,59278,165
+gardena,ca,58829,1183
+cupertino,ca,58302,317
+huntington park,ca,58114,117
+petaluma,ca,57941,520
+san rafael,ca,57713,386
+rocklin,ca,56974,114
+arcadia,ca,56364,261
+diamond bar,ca,55544,822
+woodland,ca,55468,134
+fountain valley,ca,55313,206
+porterville,ca,54165,92
+paramount,ca,54098,341
+hanford,ca,53967,121
+rosemead,ca,53764,261
+highland,ca,53104,69
+delano,ca,53041,106
+colton,ca,52154,643
+novato,ca,51904,256
+lake elsinore,ca,51821,201
+brentwood,ca,51481,150
+yucaipa,ca,51367,28
+watsonville,ca,51199,251
+placentia,ca,50533,85
+glendora,ca,50073,538
+cerritos,ca,49041,926
+gilroy,ca,48821,186
+west sacramento,ca,48744,308
+la mirada,ca,48527,46
+rancho santa margarita,ca,47853,25
+aliso viejo,ca,47823,6
+cypress,ca,47802,2
+covina,ca,47796,317
+azusa,ca,46361,455
+dublin,ca,46036,292
+ceres,ca,45417,127
+san luis obispo,ca,45119,187
+lincoln,ca,42819,70
+newark,ca,42573,337
+lompoc,ca,42434,94
+bell gardens,ca,42072,252
+rancho palos verdes,ca,41643,2
+san bruno,ca,41114,246
+rohnert park,ca,40971,74
+la puente,ca,39816,661
+san gabriel,ca,39718,177
+campbell,ca,39349,125
+brea,ca,39282,272
+morgan hill,ca,37882,232
+pacifica,ca,37234,67
+montclair,ca,36664,182
+monrovia,ca,36590,283
+los banos,ca,35972,83
+martinez,ca,35824,432
+bell,ca,35477,6
+oakley,ca,35432,21
+manhattan beach,ca,35135,5
+hollister,ca,34928,232
+claremont,ca,34926,293
+san juan capistrano,ca,34593,217
+moorpark,ca,34421,74
+west hollywood,ca,34399,13
+beverly hills,ca,34109,17
+san dimas,ca,33371,427
+dana point,ca,33351,2
+pleasant hill,ca,33152,174
+seaside,ca,33025,47
+lawndale,ca,32769,231
+wildomar,ca,32176,52
+menlo park,ca,32026,220
+adelanto,ca,31765,15
+la verne,ca,31063,88
+laguna hills,ca,30344,112
+saratoga,ca,29926,72
+goleta,ca,29888,150
+santa paula,ca,29321,97
+walnut,ca,29172,217
+san pablo,ca,29139,338
+los altos,ca,28976,198
+burlingame,ca,28806,169
+san carlos,ca,28406,95
+atascadero,ca,28310,77
+atwater,ca,28168,86
+east palo alto,ca,28155,5
+monterey,ca,27810,79
+ridgecrest,ca,27616,20
+maywood,ca,27395,6
+eureka,ca,27191,56
+norco,ca,27063,122
+benicia,ca,26997,156
+imperial beach,ca,26324,2
+belmont,ca,25835,115
+soledad,ca,25738,59
+south pasadena,ca,25619,71
+wasco,ca,25545,27
+corcoran,ca,24813,15
+lemoore,ca,24531,73
+sanger,ca,24270,94
+reedley,ca,24194,56
+seal beach,ca,24168,390
+hercules,ca,24060,123
+lafayette,ca,23893,239
+cudahy,ca,23805,1
+galt,ca,23647,146
+san fernando,ca,23645,100
+el cerrito,ca,23549,34
+loma linda,ca,23261,43
+selma,ca,23219,122
+calabasas,ca,23058,262
+laguna beach,ca,22723,16
+riverbank,ca,22678,6
+barstow,ca,22639,57
+millbrae,ca,21532,125
+dinuba,ca,21453,54
+south lake tahoe,ca,21403,9
+duarte,ca,21321,175
+blythe,ca,20817,30
+oakdale,ca,20675,86
+patterson,ca,20413,102
+agoura hills,ca,20330,177
+south el monte,ca,20116,312
+marina,ca,19718,36
+hermosa beach,ca,19506,2
+american canyon,ca,19454,117
+arvin,ca,19304,30
+coronado,ca,18912,20
+chowchilla,ca,18720,73
+pinole,ca,18390,219
+dixon,ca,18351,302
+lathrop,ca,18023,181
+susanville,ca,17947,30
+orinda,ca,17643,205
+arroyo grande,ca,17252,106
+arcata,ca,17231,36
+shafter,ca,16988,21
+el segundo,ca,16654,71
+artesia,ca,16522,131
+greenfield,ca,16330,31
+santa fe springs,ca,16223,592
+laguna woods,ca,16192,3
+ukiah,ca,16075,75
+la palma,ca,15568,43
+oroville,ca,15546,158
+avenal,ca,15505,33
+clearlake,ca,15250,7
+pacific grove,ca,15041,2
+fillmore,ca,15002,45
+parlier,ca,14494,13
+tehachapi,ca,14414,35
+ripon,ca,14297,123
+hawaiian gardens,ca,14254,41
+red bluff,ca,14076,61
+mill valley,ca,13903,131
+kerman,ca,13544,40
+coalinga,ca,13380,91
+auburn,ca,13330,214
+san marino,ca,13147,10
+livingston,ca,13058,52
+carpinteria,ca,13040,92
+solana beach,ca,12867,38
+grass valley,ca,12860,151
+commerce,ca,12823,53
+malibu,ca,12645,169
+marysville,ca,12072,114
+grand terrace,ca,12040,143
+fortuna,ca,11926,18
+larkspur,ca,11926,40
+lindsay,ca,11768,43
+scotts valley,ca,11580,95
+los alamitos,ca,11449,157
+kingsburg,ca,11382,68
+half moon bay,ca,11324,129
+healdsburg,ca,11254,106
+signal hill,ca,11016,47
+mendota,ca,11014,69
+clayton,ca,10897,26
+sonoma,ca,10648,241
+farmersville,ca,10588,1
+placerville,ca,10389,206
+exeter,ca,10334,42
+morro bay,ca,10234,7
+newman,ca,10224,28
+shasta lake,ca,10164,3
+emeryville,ca,10080,464
+anderson,ca,9932,55
+capitola,ca,9918,47
+taft,ca,9327,17
+orange cove,ca,9078,9
+cloverdale,ca,8618,26
+waterford,ca,8456,22
+live oak,ca,8392,34
+westlake village,ca,8270,150
+gonzales,ca,8187,39
+rolling hills estates,ca,8067,3
+ione,ca,7918,31
+calimesa,ca,7879,12
+yreka,ca,7765,15
+corning,ca,7663,48
+pismo beach,ca,7655,56
+firebaugh,ca,7549,54
+ojai,ca,7461,43
+sebastopol,ca,7379,97
+rio vista,ca,7360,36
+orland,ca,7291,41
+woodlake,ca,7279,18
+fort bragg,ca,7273,18
+cotati,ca,7265,51
+escalon,ca,7132,47
+guadalupe,ca,7080,6
+sausalito,ca,7061,246
+huron,ca,6754,56
+hughson,ca,6640,21
+winters,ca,6624,44
+gridley,ca,6584,22
+willows,ca,6166,35
+colusa,ca,5971,22
+villa park,ca,5812,3
+fowler,ca,5570,62
+gustine,ca,5520,76
+la habra heights,ca,5325,2
+solvang,ca,5245,12
+calistoga,ca,5155,98
+williams,ca,5123,32
+dos palos,ca,4950,36
+sonora,ca,4903,106
+willits,ca,4888,66
+needles,ca,4844,9
+buellton,ca,4828,11
+lakeport,ca,4753,51
+jackson,ca,4651,29
+brisbane,ca,4282,93
+del mar,ca,4161,125
+san joaquin,ca,4001,5
+bishop,ca,3879,34
+wheatland,ca,3456,18
+mount shasta,ca,3394,4
+rio dell,ca,3368,3
+monte sereno,ca,3341,1
+weed,ca,2967,4
+yountville,ca,2933,14
+alturas,ca,2827,1
+sutter creek,ca,2501,14
+portola,ca,2104,5
+colfax,ca,1963,58
+san juan bautista,ca,1862,132
+hidden hills,ca,1856,1
+biggs,ca,1707,22
+montague,ca,1443,6
+irwindale,ca,1422,1
+ferndale,ca,1371,4
+blue lake,ca,1253,19
+maricopa,ca,1154,22
+plymouth,ca,1005,13
+fort jones,ca,839,12
+isleton,ca,804,54
+loyalton,ca,769,1
+etna,ca,737,1
+point arena,ca,449,1
+trinidad,ca,367,15
+vernon,ca,112,21
+denver,co,600158,5759
+colorado springs,co,416427,1686
+aurora,co,325078,1024
+fort collins,co,143986,98
+lakewood,co,142980,86
+thornton,co,118772,92
+pueblo,co,106595,130
+arvada,co,106433,160
+westminster,co,106114,118
+centennial,co,100377,22
+boulder,co,97385,89
+greeley,co,92889,24
+longmont,co,86270,117
+loveland,co,66859,60
+grand junction,co,58566,13
+broomfield,co,55889,366
+littleton,co,41737,342
+northglenn,co,35789,6
+brighton,co,33352,131
+englewood,co,30255,646
+wheat ridge,co,30166,136
+fountain,co,25846,51
+lafayette,co,24453,15
+montrose,co,19132,2
+golden,co,18867,317
+evans,co,18537,1
+louisville,co,18376,53
+durango,co,16887,2
+sterling,co,14777,11
+greenwood village,co,13925,3
+fruita,co,12646,3
+steamboat springs,co,12088,3
+fort morgan,co,11315,9
+lone tree,co,10218,29
+glenwood springs,co,9614,36
+rifle,co,9172,12
+trinidad,co,9096,27
+delta,co,8915,7
+alamosa,co,8780,1
+cortez,co,8482,6
+lamar,co,7804,1
+fort lupton,co,7377,24
+woodland park,co,7200,6
+la junta,co,7077,11
+aspen,co,6658,3
+gunnison,co,5854,5
+brush,co,5463,6
+salida,co,5236,7
+manitou springs,co,4992,7
+monte vista,co,4444,2
+burlington,co,4254,2
+dacono,co,4152,1
+rocky ford,co,3957,10
+florence,co,3881,6
+walsenburg,co,3068,36
+leadville,co,2602,12
+las animas,co,2410,1
+wray,co,2342,1
+holyoke,co,2313,1
+idaho springs,co,1717,19
+cripple creek,co,1189,2
+ouray,co,1000,7
+black hawk,co,118,10
+bridgeport,ct,144229,260
+new haven,ct,129779,309
+hartford,ct,124775,644
+stamford,ct,122643,192
+waterbury,ct,110366,210
+norwalk,ct,85603,196
+danbury,ct,80893,63
+new britain,ct,73206,62
+meriden,ct,60868,287
+bristol,ct,60477,13
+west haven,ct,55564,58
+middletown,ct,47648,68
+norwich,ct,40493,29
+shelton,ct,39559,36
+torrington,ct,36383,15
+new london,ct,27620,30
+ansonia,ct,19249,12
+derby,ct,12902,22
+groton,ct,10389,35
+wilmington,de,70851,735
+dover,de,36047,22
+newark,de,31454,207
+milford,de,9559,5
+seaford,de,6928,5
+new castle,de,5285,216
+harrington,de,3562,15
+lewes,de,2747,4
+rehoboth beach,de,1327,6
+jacksonville,fl,821784,7290
+miami,fl,399457,8628
+tampa,fl,335709,3055
+st. petersburg,fl,244769,44
+orlando,fl,238300,7349
+hialeah,fl,224669,1096
+tallahassee,fl,181376,756
+fort lauderdale,fl,165521,2739
+port st. lucie,fl,164603,1
+pembroke pines,fl,154750,85
+cape coral,fl,154305,67
+hollywood,fl,140768,991
+gainesville,fl,124354,324
+miramar,fl,122041,16
+coral springs,fl,121096,30
+clearwater,fl,107685,898
+miami gardens,fl,107167,166
+palm bay,fl,103190,68
+west palm beach,fl,99919,1834
+pompano beach,fl,99845,693
+lakeland,fl,97422,257
+miami beach,fl,87779,99
+deltona,fl,85182,29
+plantation,fl,84955,20
+sunrise,fl,84439,12
+boca raton,fl,84392,470
+largo,fl,77648,298
+melbourne,fl,76068,256
+palm coast,fl,75180,76
+deerfield beach,fl,75018,205
+boynton beach,fl,68217,378
+lauderhill,fl,66887,6
+fort myers,fl,62298,1326
+daytona beach,fl,61005,233
+delray beach,fl,60522,264
+homestead,fl,60512,364
+tamarac,fl,60427,5
+kissimmee,fl,59682,962
+north miami,fl,58786,39
+north port,fl,57357,63
+ocala,fl,56315,624
+port orange,fl,56048,40
+sanford,fl,53570,200
+margate,fl,53284,5
+coconut creek,fl,52909,5
+pensacola,fl,51923,1099
+sarasota,fl,51917,777
+bradenton,fl,49546,768
+pinellas park,fl,49079,194
+palm beach gardens,fl,48452,281
+coral gables,fl,46780,7
+doral,fl,45704,7
+bonita springs,fl,43914,206
+titusville,fl,43761,66
+fort pierce,fl,41590,187
+apopka,fl,41542,191
+north miami beach,fl,41523,52
+altamonte springs,fl,41496,315
+oakland park,fl,41363,16
+north lauderdale,fl,41023,4
+ormond beach,fl,38137,114
+greenacres,fl,37573,5
+hallandale beach,fl,37113,16
+aventura,fl,35762,3
+ocoee,fl,35579,108
+dunedin,fl,35321,85
+lake worth,fl,34910,491
+winter garden,fl,34568,254
+winter haven,fl,33874,9
+oviedo,fl,33342,79
+winter springs,fl,33282,11
+lauderdale lakes,fl,32593,7
+riviera beach,fl,32488,5
+clermont,fl,28742,102
+winter park,fl,27852,462
+deland,fl,27031,195
+casselberry,fl,26241,17
+rockledge,fl,24926,93
+key west,fl,24649,14
+temple terrace,fl,24541,2
+tarpon springs,fl,23484,130
+new smyrna beach,fl,22464,55
+sebastian,fl,21929,19
+jacksonville beach,fl,21362,28
+crestview,fl,20978,123
+sunny isles beach,fl,20832,1
+edgewater,fl,20750,20
+venice,fl,20748,163
+leesburg,fl,20117,54
+naples,fl,19537,333
+fort walton beach,fl,19507,87
+debary,fl,19320,49
+eustis,fl,18558,22
+lynn haven,fl,18493,3
+belle glade,fl,17467,4
+bartow,fl,17298,13
+seminole,fl,17233,134
+cocoa,fl,17140,154
+safety harbor,fl,16884,19
+punta gorda,fl,16641,183
+marco island,fl,16413,1
+maitland,fl,15751,178
+stuart,fl,15593,16
+vero beach,fl,15220,94
+new port richey,fl,14911,262
+lake wales,fl,14225,21
+west park,fl,14156,1
+tavares,fl,13951,6
+lake mary,fl,13822,90
+miami springs,fl,13809,4
+longwood,fl,13657,209
+oldsmar,fl,13591,56
+auburndale,fl,13507,11
+sweetwater,fl,13499,1
+zephyrhills,fl,13288,60
+niceville,fl,12749,20
+palmetto,fl,12606,178
+mount dora,fl,12370,36
+destin,fl,12305,14
+south daytona,fl,12252,2
+gulfport,fl,12029,8
+south miami,fl,11657,5
+wilton manors,fl,11632,4
+fernandina beach,fl,11487,22
+cocoa beach,fl,11231,7
+palatka,fl,10558,24
+sebring,fl,10491,44
+lighthouse point,fl,10344,2
+satellite beach,fl,10109,9
+cape canaveral,fl,9912,2
+minneola,fl,9403,5
+alachua,fl,9059,144
+avon park,fl,8836,8
+milton,fl,8826,300
+groveland,fl,8729,46
+marathon,fl,8297,27
+indian harbour beach,fl,8225,1
+quincy,fl,7972,124
+brooksville,fl,7719,359
+arcadia,fl,7637,24
+inverness,fl,7210,29
+clewiston,fl,7155,18
+perry,fl,7017,14
+green cove springs,fl,6908,13
+live oak,fl,6850,125
+wildwood,fl,6709,184
+treasure island,fl,6705,2
+sanibel,fl,6469,7
+macclenny,fl,6374,73
+marianna,fl,6102,103
+west miami,fl,5965,1
+gulf breeze,fl,5763,44
+fort meade,fl,5626,2
+okeechobee,fl,5621,144
+starke,fl,5449,53
+high springs,fl,5350,30
+fellsmere,fl,5197,20
+defuniak springs,fl,5177,122
+lake alfred,fl,5015,5
+wauchula,fl,5001,19
+south pasadena,fl,4964,10
+newberry,fl,4950,13
+south bay,fl,4876,1
+labelle,fl,4640,31
+jasper,fl,4546,73
+belleview,fl,4492,23
+flagler beach,fl,4484,19
+madeira beach,fl,4263,5
+indian rocks beach,fl,4113,2
+fruitland park,fl,4078,6
+mary esther,fl,3851,35
+mulberry,fl,3817,9
+chattahoochee,fl,3652,53
+chipley,fl,3605,52
+umatilla,fl,3456,2
+crystal river,fl,3108,28
+midway,fl,3004,41
+frostproof,fl,2992,10
+bowling green,fl,2930,7
+davenport,fl,2888,146
+madison,fl,2843,67
+bonifay,fl,2793,41
+carrabelle,fl,2778,1
+williston,fl,2768,15
+bunnell,fl,2676,12
+port richey,fl,2671,97
+lake helen,fl,2624,26
+blountstown,fl,2514,11
+monticello,fl,2506,33
+bushnell,fl,2418,38
+graceville,fl,2278,4
+chiefland,fl,2245,3
+belleair bluffs,fl,2031,4
+trenton,fl,1999,6
+wewahitchka,fl,1981,14
+lake butler,fl,1897,10
+oak hill,fl,1792,7
+freeport,fl,1787,11
+dunnellon,fl,1733,22
+moore haven,fl,1680,19
+belleair beach,fl,1560,1
+gretna,fl,1460,4
+hawthorne,fl,1417,8
+keystone heights,fl,1350,3
+san antonio,fl,1138,52
+archer,fl,1118,6
+waldo,fl,1015,7
+bristol,fl,996,12
+center hill,fl,988,4
+webster,fl,785,32
+fanning springs,fl,764,1
+lawtey,fl,730,14
+cedar key,fl,702,1
+vernon,fl,687,5
+laurel hill,fl,537,4
+hampton,fl,500,5
+sopchoppy,fl,457,2
+weeki wachee,fl,12,9
+atlanta,ga,420003,11469
+columbus,ga,189885,41
+savannah,ga,136286,356
+macon,ga,91351,353
+roswell,ga,88346,80
+albany,ga,77434,46
+warner robins,ga,66588,15
+alpharetta,ga,57551,292
+marietta,ga,56579,546
+valdosta,ga,54518,50
+smyrna,ga,51271,182
+rome,ga,36303,19
+gainesville,ga,33804,85
+east point,ga,33712,1
+hinesville,ga,33437,12
+dalton,ga,33128,73
+newnan,ga,33039,114
+douglasville,ga,30961,54
+kennesaw,ga,29783,196
+lagrange,ga,29588,50
+lagrange,ga,29588,50
+lawrenceville,ga,28546,117
+statesboro,ga,28422,10
+duluth,ga,26600,252
+stockbridge,ga,25636,344
+carrollton,ga,24388,8
+woodstock,ga,23896,59
+griffin,ga,23643,54
+canton,ga,22958,88
+mcdonough,ga,22084,204
+mcdonough,ga,22084,204
+acworth,ga,20425,77
+cartersville,ga,19731,97
+decatur,ga,19335,1006
+pooler,ga,19140,70
+sugar hill,ga,18522,1
+forest park,ga,18468,228
+thomasville,ga,18413,6
+snellville,ga,18242,29
+milledgeville,ga,17715,24
+americus,ga,17041,4
+tifton,ga,16350,29
+dublin,ga,16201,21
+kingsland,ga,15946,14
+fayetteville,ga,15945,35
+calhoun,ga,15650,47
+brunswick,ga,15383,62
+suwanee,ga,15355,55
+conyers,ga,15195,85
+riverdale,ga,15134,1
+waycross,ga,14649,5
+moultrie,ga,14268,1
+winder,ga,14099,19
+villa rica,ga,13956,55
+powder springs,ga,13940,13
+perry,ga,13839,50
+monroe,ga,13234,39
+covington,ga,13118,61
+fairburn,ga,12950,80
+bainbridge,ga,12697,8
+buford,ga,12225,166
+lilburn,ga,11596,11
+douglas,ga,11589,4
+dallas,ga,11544,14
+grovetown,ga,11216,57
+cordele,ga,11147,13
+vidalia,ga,10473,2
+loganville,ga,10458,55
+fort valley,ga,9815,35
+cedartown,ga,9750,9
+cairo,ga,9607,2
+jefferson,ga,9432,62
+richmond hill,ga,9281,24
+fort oglethorpe,ga,9263,2
+thomaston,ga,9170,10
+norcross,ga,9116,335
+fitzgerald,ga,9053,2
+toccoa,ga,8491,10
+clarkston,ga,7554,115
+swainsboro,ga,7277,3
+centerville,ga,7148,3
+hampton,ga,6987,4
+thomson,ga,6778,28
+barnesville,ga,6755,12
+austell,ga,6581,110
+commerce,ga,6544,47
+eatonton,ga,6480,9
+morrow,ga,6445,79
+bremen,ga,6227,32
+sylvester,ga,6188,9
+sandersville,ga,5912,2
+stone mountain,ga,5802,72
+waynesboro,ga,5766,6
+flowery branch,ga,5679,20
+cumming,ga,5430,33
+locust grove,ga,5402,60
+camilla,ga,5360,5
+port wentworth,ga,5359,71
+adel,ga,5334,8
+dahlonega,ga,5242,3
+cochran,ga,5150,5
+blakely,ga,5068,2
+jackson,ga,5045,98
+eastman,ga,4962,4
+reidsville,ga,4944,3
+nashville,ga,4939,1
+jonesboro,ga,4724,19
+elberton,ga,4653,2
+adairsville,ga,4648,23
+hawkinsville,ga,4589,4
+dawson,ga,4540,6
+summerville,ga,4534,13
+byron,ga,4512,31
+palmetto,ga,4488,22
+hartwell,ga,4469,1
+dacula,ga,4442,18
+baxley,ga,4400,2
+lyons,ga,4367,8
+chatsworth,ga,4299,10
+social circle,ga,4262,28
+manchester,ga,4230,1
+temple,ga,4228,39
+rockmart,ga,4199,3
+cornelia,ga,4160,7
+ashburn,ga,4152,6
+washington,ga,4134,12
+metter,ga,4130,15
+rossville,ga,4105,6
+hephzibah,ga,4011,210
+vienna,ga,4011,17
+madison,ga,3979,34
+oakwood,ga,3970,3
+pelham,ga,3898,2
+quitman,ga,3850,9
+unadilla,ga,3796,7
+forsyth,ga,3788,85
+jasper,ga,3684,16
+ringgold,ga,3580,50
+glennville,ga,3569,2
+hiram,ga,3546,3
+west point,ga,3474,14
+alma,ga,3466,6
+blackshear,ga,3445,1
+ocilla,ga,3414,4
+cleveland,ga,3410,14
+greensboro,ga,3359,40
+senoia,ga,3307,16
+gray,ga,3276,5
+tallapoosa,ga,3170,13
+millen,ga,3120,2
+soperton,ga,3115,18
+chickamauga,ga,3101,3
+hogansville,ga,3060,26
+grantville,ga,3041,14
+tybee island,ga,2990,2
+avondale estates,ga,2960,26
+sylvania,ga,2956,4
+leesburg,ga,2896,9
+springfield,ga,2852,1
+watkinsville,ga,2832,9
+lula,ga,2758,6
+claxton,ga,2746,5
+lumpkin,ga,2741,2
+hahira,ga,2737,14
+bloomingdale,ga,2713,27
+grayson,ga,2666,11
+harlem,ga,2666,17
+monticello,ga,2657,5
+donalsonville,ga,2650,4
+royston,ga,2582,1
+dawsonville,ga,2536,40
+folkston,ga,2502,5
+louisville,ga,2493,4
+east dublin,ga,2441,12
+statham,ga,2408,3
+trenton,ga,2301,29
+pembroke,ga,2196,12
+wrightsville,ga,2195,2
+wrens,ga,2187,5
+buena vista,ga,2173,1
+lavonia,ga,2156,32
+oxford,ga,2134,7
+midway,ga,2121,9
+pearson,ga,2117,4
+wadley,ga,2061,2
+clayton,ga,2047,2
+bowdon,ga,2040,2
+colquitt,ga,1992,10
+darien,ga,1975,16
+butler,ga,1972,1
+warrenton,ga,1937,5
+lithonia,ga,1924,153
+demorest,ga,1823,4
+ellaville,ga,1812,2
+clarkesville,ga,1733,23
+ludowici,ga,1703,1
+guyton,ga,1684,3
+ellijay,ga,1619,23
+union point,ga,1617,1
+lincolnton,ga,1566,3
+richland,ga,1473,6
+marshallville,ga,1448,1
+ball ground,ga,1433,10
+porterdale,ga,1429,1
+woodbine,ga,1412,18
+sparta,ga,1400,1
+brooklet,ga,1395,6
+hoschton,ga,1377,36
+oglethorpe,ga,1328,1
+blue ridge,ga,1290,2
+cave spring,ga,1200,1
+broxton,ga,1189,1
+zebulon,ga,1174,10
+buchanan,ga,1104,2
+reynolds,ga,1086,3
+nahunta,ga,1053,1
+jeffersonville,ga,1035,8
+meigs,ga,1035,2
+hamilton,ga,1016,7
+roberta,ga,1007,3
+sardis,ga,999,2
+franklin,ga,993,22
+woodbury,ga,961,2
+hiawassee,ga,880,1
+greenville,ga,876,10
+luthersville,ga,874,2
+bowman,ga,862,1
+tunnel hill,ga,856,8
+riceboro,ga,809,11
+rutledge,ga,781,6
+plains,ga,776,1
+glenwood,ga,747,4
+lake park,ga,733,12
+patterson,ga,730,1
+blythe,ga,721,19
+fairmount,ga,720,3
+white,ga,670,10
+cohutta,ga,661,1
+newton,ga,654,1
+flovilla,ga,653,4
+blairsville,ga,652,4
+waleska,ga,644,2
+kingston,ga,637,6
+pavo,ga,627,1
+leary,ga,618,1
+milner,ga,610,3
+uvalda,ga,598,3
+collins,ga,584,1
+carnesville,ga,577,19
+smithville,ga,575,1
+dudley,ga,571,6
+crawfordville,ga,534,11
+hoboken,ga,528,2
+waco,ga,516,32
+helen,ga,510,1
+odum,ga,504,2
+pinehurst,ga,455,10
+attapulgus,ga,449,3
+shiloh,ga,445,7
+stapleton,ga,438,2
+ailey,ga,432,1
+warm springs,ga,425,2
+mansfield,ga,410,3
+leslie,ga,409,1
+ambrose,ga,380,1
+concord,ga,375,1
+jenkinsburg,ga,370,3
+molena,ga,368,5
+williamson,ga,352,2
+cobbtown,ga,351,2
+chauncey,ga,342,1
+plainville,ga,313,2
+rentz,ga,295,1
+white plains,ga,284,1
+damascus,ga,254,2
+morgan,ga,240,1
+norwood,ga,239,13
+gillsville,ga,235,2
+lexington,ga,228,3
+garfield,ga,201,2
+de soto,ga,195,2
+meansville,ga,182,1
+culloden,ga,175,4
+jakin,ga,155,1
+boise,id,205671,57
+nampa,id,81557,30
+meridian,id,75092,29
+idaho falls,id,56813,18
+pocatello,id,54255,10
+caldwell,id,46237,15
+twin falls,id,44125,4
+post falls,id,27574,7
+rexburg,id,25484,1
+moscow,id,23800,1
+eagle,id,19908,4
+kuna,id,15210,1
+mountain home,id,14206,4
+hayden,id,13294,7
+blackfoot,id,11899,3
+jerome,id,10890,11
+burley,id,10345,1
+hailey,id,7960,1
+payette,id,7433,1
+sandpoint,id,7365,4
+rathdrum,id,6826,5
+weiser,id,5507,4
+fruitland,id,4684,2
+american falls,id,4457,2
+buhl,id,4122,1
+kimberly,id,3264,1
+heyburn,id,3089,5
+mccall,id,2991,1
+bonners ferry,id,2543,2
+filer,id,2508,1
+bellevue,id,2287,2
+kellogg,id,2120,1
+aberdeen,id,1994,1
+spirit lake,id,1945,2
+victor,id,1928,1
+priest river,id,1751,1
+osburn,id,1555,1
+new plymouth,id,1538,3
+shoshone,id,1461,1
+glenns ferry,id,1319,2
+kamiah,id,1295,1
+ashton,id,1127,1
+plummer,id,1044,1
+marsing,id,1031,1
+genesee,id,955,2
+cascade,id,939,3
+council,id,839,4
+mccammon,id,809,1
+wallace,id,784,4
+hazelton,id,753,5
+horseshoe bend,id,707,6
+athol,id,692,3
+mullan,id,692,6
+hauser,id,678,1
+dubois,id,677,1
+ririe,id,656,5
+franklin,id,641,1
+downey,id,625,1
+melba,id,513,2
+new meadows,id,496,1
+richfield,id,482,1
+firth,id,477,4
+nezperce,id,466,1
+riggins,id,419,2
+fairfield,id,416,1
+eden,id,405,4
+culdesac,id,380,2
+bancroft,id,377,4
+declo,id,343,5
+bliss,id,318,3
+island park,id,286,6
+tetonia,id,269,1
+stites,id,221,1
+swan valley,id,204,1
+harrison,id,203,5
+peck,id,197,2
+malta,id,193,3
+midvale,id,171,1
+white bird,id,91,2
+hamer,id,48,2
+chicago,il,2695598,4383
+aurora,il,197899,53
+rockford,il,152871,70
+joliet,il,147433,74
+naperville,il,141853,138
+springfield,il,116250,24
+peoria,il,115007,27
+elgin,il,108188,1520
+waukegan,il,89078,447
+champaign,il,81055,12
+bloomington,il,76610,10
+decatur,il,76122,12
+evanston,il,74486,12
+des plaines,il,58364,298
+berwyn,il,56657,51
+wheaton,il,52894,479
+belleville,il,44478,9
+elmhurst,il,44121,506
+dekalb,il,43862,15
+moline,il,43483,21
+urbana,il,41250,7
+crystal lake,il,40743,8
+quincy,il,40633,7
+rock island,il,39018,3
+park ridge,il,37480,34
+calumet,il,37042,1
+pekin,il,34094,277
+danville,il,33027,10
+north chicago,il,32574,218
+galesburg,il,32195,1
+chicago heights,il,30276,24
+highland park,il,29763,81
+burbank,il,28925,9
+oak forest,il,27962,10
+alton,il,27865,4
+kankakee,il,27537,5
+west chicago,il,27086,318
+mchenry,il,26992,27
+mchenry,il,26992,27
+batavia,il,26045,10
+belvidere,il,25585,37
+collinsville,il,25579,27
+harvey,il,25282,11
+lockport,il,24839,16
+woodstock,il,24770,10
+zion,il,24413,156
+edwardsville,il,24293,8
+rolling meadows,il,24099,56
+loves park,il,23996,5
+blue island,il,23706,19
+east peoria,il,23402,202
+darien,il,22086,197
+geneva,il,21495,6
+east moline,il,21302,1
+crest hill,il,20837,5
+jacksonville,il,19446,1
+lake forest,il,19375,242
+ottawa,il,18768,11
+sycamore,il,17519,5
+palos hills,il,17484,6
+marion,il,17193,6
+fairview heights,il,17078,4
+yorkville,il,16921,7
+country club hills,il,16541,16
+prospect heights,il,16256,2
+dixon,il,15733,7
+sterling,il,15370,1
+mount vernon,il,15277,8
+washington,il,15134,78
+lincoln,il,14504,2
+hickory hills,il,14049,32
+wood dale,il,13770,4
+streator,il,13710,1
+morris,il,13636,23
+warrenville,il,13140,242
+centralia,il,13032,10
+kewanee,il,12916,1
+palos heights,il,12515,5
+markham,il,12508,52
+effingham,il,12328,12
+pontiac,il,11931,1
+plano,il,10856,3
+peru,il,10295,5
+highland,il,9919,2
+troy,il,9888,3
+waterloo,il,9811,1
+columbia,il,9707,10
+rochelle,il,9574,10
+harvard,il,9447,5
+rock falls,il,9266,1
+harrisburg,il,9017,2
+chester,il,8586,1
+jerseyville,il,8465,4
+west frankfort,il,8182,4
+south beloit,il,7892,4
+princeton,il,7660,3
+marengo,il,7648,15
+salem,il,7485,6
+mascoutah,il,7483,3
+sandwich,il,7421,2
+mendota,il,7372,2
+benton,il,7087,9
+vandalia,il,7042,2
+greenville,il,7000,2
+litchfield,il,6939,2
+metropolis,il,6537,5
+braidwood,il,6191,2
+chillicothe,il,6097,1
+countryside,il,5895,1
+pana,il,5847,4
+wilmington,il,5724,16
+spring valley,il,5558,7
+carterville,il,5496,2
+watseka,il,5255,3
+genoa,il,5193,3
+fairfield,il,5154,1
+colona,il,5099,4
+pittsfield,il,4576,1
+tuscola,il,4480,2
+west peoria,il,4458,1
+anna,il,4442,4
+lawrenceville,il,4348,1
+sparta,il,4302,2
+morrison,il,4188,1
+marshall,il,3933,5
+oglesby,il,3791,5
+byron,il,3753,2
+oregon,il,3721,1
+red bud,il,3698,2
+le roy,il,3560,3
+havana,il,3301,1
+nashville,il,3258,4
+knoxville,il,2911,1
+marquette heights,il,2824,9
+el paso,il,2810,8
+casey,il,2769,6
+carthage,il,2605,1
+polo,il,2355,1
+altamont,il,2319,3
+oakbrook terrace,il,2134,37
+prophetstown,il,2080,2
+minonk,il,2078,2
+lexington,il,2060,3
+mount sterling,il,2025,1
+venice,il,1890,2
+gilman,il,1814,1
+east dubuque,il,1704,11
+atlanta,il,1692,1
+delavan,il,1689,15
+grayville,il,1666,3
+neoga,il,1636,1
+virginia,il,1611,2
+winchester,il,1593,1
+mount pulaski,il,1566,1
+vienna,il,1434,3
+la harpe,il,1235,1
+griggsville,il,1226,1
+macon,il,1138,1
+wenona,il,1056,1
+kinmundy,il,796,2
+coffeen,il,685,1
+fort wayne,in,253691,62
+evansville,in,117429,94
+south bend,in,101168,23
+hammond,in,80830,135
+bloomington,in,80405,14
+gary,in,80294,194
+carmel,in,79191,25
+muncie,in,70085,11
+lafayette,in,67140,25
+terre haute,in,60785,24
+anderson,in,56129,85
+noblesville,in,51969,32
+elkhart,in,50949,11
+greenwood,in,49791,74
+mishawaka,in,48252,3
+kokomo,in,45468,92
+jeffersonville,in,44953,22
+columbus,in,44061,349
+portage,in,36828,22
+richmond,in,36812,357
+new albany,in,36372,106
+valparaiso,in,31730,11
+goshen,in,31719,3
+westfield,in,30068,8
+marion,in,29948,6
+east chicago,in,29698,4
+west lafayette,in,29596,10
+hobart,in,29059,11
+crown point,in,27317,32
+franklin,in,23712,29
+la porte,in,22053,22
+greenfield,in,20602,61
+shelbyville,in,19191,77
+vincennes,in,18423,1
+logansport,in,18396,4
+new castle,in,18114,10
+seymour,in,17503,43
+huntington,in,17391,3
+frankfort,in,16422,13
+crawfordsville,in,15915,15
+lebanon,in,15792,77
+jasper,in,15038,3
+new haven,in,14794,9
+beech grove,in,14192,38
+connersville,in,13481,9
+auburn,in,12731,4
+lake station,in,12572,62
+madison,in,11967,1
+martinsville,in,11828,9
+washington,in,11509,5
+greensburg,in,11492,11
+peru,in,11417,11
+wabash,in,10666,1
+greencastle,in,10326,5
+plymouth,in,10033,6
+kendallville,in,9862,5
+decatur,in,9405,2
+princeton,in,8644,4
+elwood,in,8614,3
+angola,in,8612,5
+brazil,in,7912,17
+charlestown,in,7585,2
+scottsburg,in,6747,13
+north vernon,in,6728,6
+mount vernon,in,6687,1
+nappanee,in,6648,3
+batesville,in,6520,2
+rushville,in,6341,4
+salem,in,6319,1
+garrett,in,6286,2
+rochester,in,6218,3
+huntingburg,in,6057,2
+rensselaer,in,5859,9
+monticello,in,5378,1
+alexandria,in,5145,1
+tipton,in,5106,10
+lawrenceburg,in,5042,20
+greendale,in,4520,2
+mitchell,in,4350,8
+austin,in,4295,6
+sullivan,in,4249,1
+aurora,in,3750,7
+attica,in,3245,2
+loogootee,in,2751,2
+butler,in,2684,2
+covington,in,2645,12
+petersburg,in,2383,3
+rising sun,in,2304,1
+rockport,in,2270,5
+jasonville,in,2222,1
+des moines,ia,203433,529
+cedar rapids,ia,126326,103
+davenport,ia,99685,48
+waterloo,ia,68406,18
+council bluffs,ia,62230,148
+ames,ia,58965,48
+dubuque,ia,57637,3
+west des moines,ia,56609,31
+west des moines,ia,56609,31
+ankeny,ia,45582,101
+urbandale,ia,39463,136
+cedar falls,ia,39260,2
+marion,ia,34768,12
+bettendorf,ia,33217,39
+marshalltown,ia,27552,5
+burlington,ia,25663,1
+fort dodge,ia,25206,3
+ottumwa,ia,25023,5
+muscatine,ia,22886,1
+coralville,ia,18907,19
+johnston,ia,17278,47
+clive,ia,15447,34
+newton,ia,15254,30
+indianola,ia,14782,1
+altoona,ia,14541,43
+waukee,ia,13790,29
+north liberty,ia,13374,18
+boone,ia,12661,3
+oskaloosa,ia,11463,2
+storm lake,ia,10600,1
+pella,ia,10352,5
+le mars,ia,9826,3
+grinnell,ia,9218,11
+norwalk,ia,8945,8
+pleasant hill,ia,8785,27
+mount pleasant,ia,8668,6
+denison,ia,8298,4
+grimes,ia,8246,32
+creston,ia,7834,2
+clear lake,ia,7777,9
+washington,ia,7266,1
+atlantic,ia,7112,12
+hiawatha,ia,7024,3
+nevada,ia,6798,2
+maquoketa,ia,6141,3
+independence,ia,5966,2
+algona,ia,5560,1
+de witt,ia,5322,13
+winterset,ia,5190,1
+sheldon,ia,5188,2
+manchester,ia,5179,2
+shenandoah,ia,5150,7
+osceola,ia,4929,5
+windsor heights,ia,4860,41
+spirit lake,ia,4840,1
+evansdale,ia,4751,6
+humboldt,ia,4690,1
+chariton,ia,4321,1
+sergeant bluff,ia,4227,2
+dyersville,ia,4058,2
+waukon,ia,3897,1
+carlisle,ia,3876,8
+bondurant,ia,3860,15
+monticello,ia,3796,4
+carter lake,ia,3785,2
+le claire,ia,3765,7
+west liberty,ia,3736,4
+adel,ia,3682,13
+rock valley,ia,3354,3
+tipton,ia,3221,1
+robins,ia,3142,1
+garner,ia,3129,3
+williamsburg,ia,3068,9
+missouri valley,ia,2838,16
+wilton,ia,2802,3
+sibley,ia,2798,2
+bloomfield,ia,2640,2
+rock rapids,ia,2549,9
+madrid,ia,2543,3
+belle plaine,ia,2534,2
+marengo,ia,2528,5
+center point,ia,2421,2
+lamoni,ia,2324,5
+west branch,ia,2322,8
+mitchellville,ia,2254,10
+bellevue,ia,2191,1
+cascade,ia,2159,3
+fairfax,ia,2123,2
+colfax,ia,2093,8
+wapello,ia,2067,2
+northwood,ia,1989,2
+tiffin,ia,1947,2
+columbus junction,ia,1899,1
+epworth,ia,1860,2
+durant,ia,1832,3
+monroe,ia,1830,1
+ely,ia,1776,2
+pleasantville,ia,1694,1
+nashua,ia,1663,4
+stuart,ia,1648,5
+corning,ia,1635,1
+walcott,ia,1629,10
+dallas center,ia,1623,2
+moville,ia,1618,1
+mediapolis,ia,1560,1
+farley,ia,1537,1
+avoca,ia,1506,11
+manning,ia,1500,1
+slater,ia,1489,1
+brooklyn,ia,1468,5
+walford,ia,1463,1
+urbana,ia,1458,2
+blue grass,ia,1452,2
+earlham,ia,1450,2
+nora springs,ia,1431,2
+sanborn,ia,1404,1
+holstein,ia,1396,3
+dysart,ia,1379,1
+manly,ia,1323,2
+granger,ia,1244,4
+alton,ia,1216,1
+hamburg,ia,1187,1
+winfield,ia,1134,1
+marcus,ia,1117,2
+springville,ia,1074,3
+de soto,ia,1050,2
+eddyville,ia,1024,2
+keota,ia,1009,1
+keosauqua,ia,1006,1
+sloan,ia,973,5
+anita,ia,972,6
+wayland,ia,966,1
+danville,ia,934,1
+janesville,ia,930,1
+maxwell,ia,920,4
+treynor,ia,919,1
+underwood,ia,917,2
+donnellson,ia,912,2
+lawton,ia,908,1
+montrose,ia,898,1
+victor,ia,893,2
+swisher,ia,879,16
+colo,ia,876,1
+newhall,ia,875,1
+edgewood,ia,864,2
+neola,ia,842,11
+cambridge,ia,827,28
+grand junction,ia,824,4
+long grove,ia,808,5
+oxford,ia,807,4
+walnut,ia,785,3
+adair,ia,781,4
+whiting,ia,762,2
+merrill,ia,755,1
+bancroft,ia,732,1
+stanwood,ia,684,1
+elkhart,ia,683,11
+van horne,ia,682,1
+pomeroy,ia,662,1
+shelby,ia,641,4
+keystone,ia,622,1
+crescent,ia,617,12
+dexter,ia,611,4
+kellogg,ia,599,1
+minden,ia,599,7
+lovilia,ia,538,1
+ellsworth,ia,531,7
+garwin,ia,527,1
+delmar,ia,525,1
+new albin,ia,522,1
+batavia,ia,499,2
+new virginia,ia,489,7
+pacific junction,ia,471,1
+calamus,ia,439,1
+alleman,ia,432,3
+casey,ia,426,1
+new vienna,ia,407,1
+mondamin,ia,402,2
+letts,ia,384,1
+holy cross,ia,374,1
+fertile,ia,370,1
+salix,ia,363,2
+cumming,ia,351,22
+williams,ia,344,6
+floyd,ia,335,1
+atalissa,ia,311,3
+brandon,ia,309,6
+bagley,ia,303,3
+malcom,ia,287,8
+modale,ia,283,2
+mallard,ia,274,1
+kensett,ia,266,1
+rowley,ia,264,2
+la motte,ia,260,1
+thurman,ia,229,10
+hanlontown,ia,226,1
+lucas,ia,216,1
+blairsburg,ia,215,2
+linden,ia,199,2
+decatur,ia,197,7
+elberon,ia,196,2
+little sioux,ia,170,2
+brayton,ia,128,3
+marne,ia,120,1
+swan,ia,72,1
+jolley,ia,41,1
+wichita,ks,382368,42
+overland park,ks,173372,376
+topeka,ks,127473,21
+olathe,ks,125872,183
+lawrence,ks,87643,3
+shawnee,ks,62209,379
+lenexa,ks,48190,370
+salina,ks,47707,1
+leawood,ks,31867,95
+emporia,ks,24916,2
+hays,ks,20510,1
+newton,ks,19132,1
+gardner,ks,19123,30
+el dorado,ks,13021,3
+haysville,ks,10826,3
+parsons,ks,10500,1
+independence,ks,9483,2
+mission,ks,9323,94
+chanute,ks,9119,3
+wellington,ks,8172,3
+fort scott,ks,8087,1
+bonner springs,ks,7314,26
+valley center,ks,6822,1
+mulvane,ks,6111,1
+iola,ks,5704,1
+tonganoxie,ks,4996,2
+baxter springs,ks,4238,1
+fairway,ks,3882,1
+maize,ks,3420,1
+ellsworth,ks,3120,2
+cimarron,ks,2184,1
+wakeeney,ks,1862,1
+douglass,ks,1700,1
+belle plaine,ks,1681,2
+edgerton,ks,1671,12
+wathena,ks,1364,1
+victoria,ks,1214,1
+erie,ks,1150,1
+wilson,ks,781,2
+scranton,ks,710,1
+westwood hills,ks,359,1
+dorrance,ks,185,2
+collyer,ks,109,2
+elk falls,ks,107,3
+liebenthal,ks,103,1
+bunker hill,ks,95,2
+bowling green,ky,58067,19
+owensboro,ky,57265,1
+covington,ky,40640,391
+hopkinsville,ky,31577,3
+richmond,ky,31364,13
+florence,ky,29951,136
+georgetown,ky,29098,11
+henderson,ky,28757,6
+elizabethtown,ky,28531,18
+nicholasville,ky,28015,10
+frankfort,ky,25527,8
+paducah,ky,25024,2
+independence,ky,24757,47
+ashland,ky,21684,2
+madisonville,ky,19591,2
+winchester,ky,18368,5
+erlanger,ky,18082,203
+fort thomas,ky,16325,36
+newport,ky,15273,118
+shelbyville,ky,14045,6
+glasgow,ky,14028,2
+berea,ky,13561,3
+bardstown,ky,11700,2
+shepherdsville,ky,11222,26
+lawrenceburg,ky,10505,1
+mount washington,ky,9117,2
+maysville,ky,9011,1
+edgewood,ky,8575,24
+versailles,ky,8568,2
+alexandria,ky,8477,9
+elsmere,ky,8451,11
+franklin,ky,8408,5
+la grange,ky,8082,8
+london,ky,7993,2
+oak grove,ky,7489,1
+villa hills,ky,7489,2
+corbin,ky,7304,2
+highland heights,ky,6923,3
+pikeville,ky,6903,1
+mount sterling,ky,6895,4
+morehead,ky,6845,3
+taylor mill,ky,6604,13
+princeton,ky,6329,3
+bellevue,ky,5955,2
+cold spring,ky,5912,1
+lebanon,ky,5539,1
+union,ky,5379,11
+williamsburg,ky,5245,7
+prospect,ky,4698,21
+crestwood,ky,4531,20
+ludlow,ky,4407,5
+grayson,ky,4217,1
+carrollton,ky,3938,1
+williamstown,ky,3925,2
+crittenden,ky,3815,12
+southgate,ky,3803,1
+crescent springs,ky,3801,8
+walton,ky,3635,70
+lancaster,ky,3442,1
+beaver dam,ky,3409,2
+prestonsburg,ky,3255,1
+hodgenville,ky,3206,1
+crestview hills,ky,3148,10
+wilder,ky,3035,6
+park hills,ky,2970,5
+irvine,ky,2715,1
+lakeside park,ky,2668,7
+cadiz,ky,2558,3
+eddyville,ky,2554,1
+simpsonville,ky,2484,5
+mount vernon,ky,2477,3
+louisa,ky,2467,1
+horse cave,ky,2311,3
+jenkins,ky,2203,1
+dry ridge,ky,2191,1
+catlettsburg,ky,1856,3
+lebanon junction,ky,1813,7
+pineville,ky,1732,1
+midway,ky,1641,3
+munfordville,ky,1615,3
+warsaw,ky,1615,1
+olive hill,ky,1599,1
+edmonton,ky,1595,1
+owingsville,ky,1530,3
+pewee valley,ky,1456,1
+manchester,ky,1255,5
+ryland heights,ky,1022,1
+muldraugh,ky,947,1
+clarkson,ky,875,1
+crab orchard,ky,841,1
+bloomfield,ky,838,1
+campbellsburg,ky,813,4
+west point,ky,797,5
+bromley,ky,763,2
+corydon,ky,720,1
+upton,ky,683,4
+martin,ky,634,1
+caneyville,ky,608,1
+campton,ky,441,2
+melbourne,ky,401,2
+grand rivers,ky,382,1
+sharpsburg,ky,323,1
+sadieville,ky,303,3
+bonnieville,ky,255,3
+corinth,ky,232,4
+sparta,ky,231,5
+oakland,ky,225,1
+slaughters,ky,216,1
+california,ky,90,1
+new orleans,la,343829,971
+baton rouge,la,229493,11982
+shreveport,la,199311,1387
+lafayette,la,120623,2701
+lake charles,la,71993,177
+kenner,la,66702,78
+monroe,la,48815,26
+alexandria,la,47723,23
+houma,la,33727,75
+new iberia,la,30617,3
+slidell,la,27068,43
+ruston,la,21859,4
+sulphur,la,20410,28
+hammond,la,20019,70
+natchitoches,la,18323,1
+gretna,la,17736,23
+opelousas,la,16634,10
+zachary,la,14960,308
+thibodaux,la,14566,4
+pineville,la,14555,4
+baker,la,13895,147
+crowley,la,13265,11
+minden,la,13082,6
+west monroe,la,13065,15
+bogalusa,la,12232,1
+mandeville,la,11560,17
+bastrop,la,11365,2
+eunice,la,10398,2
+jennings,la,10383,5
+denham springs,la,10215,29
+gonzales,la,9781,32
+covington,la,8765,43
+scott,la,8614,221
+westwego,la,8534,7
+broussard,la,8197,176
+breaux bridge,la,8139,94
+youngsville,la,8105,166
+rayne,la,7953,18
+carencro,la,7526,118
+donaldsonville,la,7436,1
+tallulah,la,7335,4
+plaquemine,la,7119,4
+ponchatoula,la,6559,15
+patterson,la,6112,1
+port allen,la,5180,182
+mansfield,la,5001,1
+grambling,la,4949,4
+winnsboro,la,4910,1
+new roads,la,4831,1
+westlake,la,4568,70
+bunkie,la,4171,3
+portland,me,66194,63
+lewiston,me,36592,5
+bangor,me,33039,12
+south portland,me,25002,24
+auburn,me,23055,12
+biddeford,me,21277,19
+augusta,me,19136,31
+saco,me,18482,29
+westbrook,me,17494,2
+waterville,me,15722,13
+brewer,me,9482,3
+bath,me,8514,1
+old town,me,7840,5
+ellsworth,me,7741,7
+gardiner,me,5800,7
+hallowell,me,2381,5
+baltimore,md,620961,861
+frederick,md,65239,712
+rockville,md,61209,235
+gaithersburg,md,59933,220
+bowie,md,54727,90
+hagerstown,md,39662,201
+annapolis,md,38394,187
+college park,md,30413,56
+salisbury,md,30343,52
+laurel,md,25115,207
+greenbelt,md,23068,112
+cumberland,md,20859,28
+westminster,md,18590,29
+hyattsville,md,17557,337
+takoma park,md,16715,9
+aberdeen,md,14959,97
+havre de grace,md,12952,36
+havre de grace,md,12952,36
+cambridge,md,12326,8
+new carrollton,md,12135,2
+frostburg,md,9002,10
+mount rainier,md,8080,1
+taneytown,md,6728,5
+district heights,md,5837,48
+crisfield,md,2726,1
+detroit,mi,713777,4007
+grand rapids,mi,188040,2803
+warren,mi,134056,256
+sterling heights,mi,129699,128
+lansing,mi,114297,279
+ann arbor,mi,113934,218
+flint,mi,102434,3886
+dearborn,mi,98153,225
+livonia,mi,96942,195
+westland,mi,84094,5
+troy,mi,80980,95
+farmington hills,mi,79740,6
+kalamazoo,mi,74262,71
+wyoming,mi,72125,67
+southfield,mi,71739,487
+rochester hills,mi,70995,2
+taylor,mi,63131,214
+pontiac,mi,59515,4
+dearborn heights,mi,57774,5
+royal oak,mi,57236,382
+novi,mi,55224,206
+battle creek,mi,52347,62
+saginaw,mi,51508,83
+east lansing,mi,48579,24
+roseville,mi,47299,196
+portage,mi,46292,52
+midland,mi,41863,41
+muskegon,mi,38401,48
+lincoln park,mi,38144,53
+jackson,mi,33534,128
+holland,mi,33051,90
+eastpointe,mi,32442,7
+port huron,mi,30184,36
+southgate,mi,30047,19
+burton,mi,29999,563
+madison heights,mi,29694,324
+oak park,mi,29319,45
+allen park,mi,28210,163
+mount pleasant,mi,26016,5
+wyandotte,mi,25883,1
+inkster,mi,25369,2
+norton shores,mi,23994,3
+romulus,mi,23989,292
+hamtramck,mi,22423,87
+auburn hills,mi,21412,125
+adrian,mi,21133,5
+monroe,mi,20733,42
+birmingham,mi,20103,1
+ferndale,mi,19900,2
+ypsilanti,mi,19435,116
+trenton,mi,18853,23
+wayne,mi,17593,27
+hazel park,mi,16422,179
+mount clemens,mi,16314,7
+grandville,mi,15378,36
+owosso,mi,15194,4
+berkley,mi,14970,2
+fraser,mi,14480,6
+harper woods,mi,14236,114
+wixom,mi,13498,70
+woodhaven,mi,12875,1
+rochester,mi,12711,6
+riverview,mi,12486,2
+new baltimore,mi,12084,32
+clawson,mi,11825,2
+highland park,mi,11776,355
+fenton,mi,11756,226
+niles,mi,11600,7
+ionia,mi,11394,5
+south lyon,mi,11327,9
+sturgis,mi,10994,11
+coldwater,mi,10945,6
+melvindale,mi,10715,2
+big rapids,mi,10601,3
+alpena,mi,10483,4
+grand haven,mi,10412,31
+farmington,mi,10372,251
+cadillac,mi,10355,5
+benton harbor,mi,10038,45
+flat rock,mi,9878,7
+ecorse,mi,9512,1
+howell,mi,9489,31
+grosse pointe farms,mi,9479,1
+alma,mi,9383,1
+plymouth,mi,9132,319
+charlotte,mi,9074,46
+lapeer,mi,8841,13
+saline,mi,8810,3
+albion,mi,8616,16
+tecumseh,mi,8521,2
+flushing,mi,8389,238
+grand blanc,mi,8276,800
+center line,mi,8257,28
+mason,mi,8252,26
+ludington,mi,8076,7
+three rivers,mi,7811,21
+grand ledge,mi,7786,23
+brighton,mi,7444,132
+hastings,mi,7350,6
+hudsonville,mi,7116,34
+marshall,mi,7088,31
+walled lake,mi,6999,2
+huntington woods,mi,6238,20
+northville,mi,5970,65
+dowagiac,mi,5879,10
+milan,mi,5836,20
+swartz creek,mi,5758,262
+belding,mi,5757,1
+richmond,mi,5735,1
+rockford,mi,5719,17
+petoskey,mi,5670,3
+zeeland,mi,5504,21
+grosse pointe,mi,5421,1
+eaton rapids,mi,5214,15
+davison,mi,5173,506
+allegan,mi,4998,7
+chelsea,mi,4944,16
+frankenmuth,mi,4944,2
+cheboygan,mi,4867,1
+utica,mi,4757,10
+dewitt,mi,4507,5
+dewitt,mi,4507,5
+buchanan,mi,4456,3
+south haven,mi,4403,6
+coopersville,mi,4275,12
+wayland,mi,4079,29
+belleville,mi,3991,99
+linden,mi,3991,135
+portland,mi,3883,14
+bloomfield hills,mi,3869,13
+williamston,mi,3854,33
+plainwell,mi,3804,17
+lowell,mi,3783,18
+gaylord,mi,3645,4
+cedar springs,mi,3509,10
+corunna,mi,3497,2
+essexville,mi,3478,2
+durand,mi,3446,9
+rockwood,mi,3289,6
+clare,mi,3118,4
+manistique,mi,3097,1
+mount morris,mi,3086,352
+gladwin,mi,2933,4
+ithaca,mi,2910,2
+whitehall,mi,2706,3
+hartford,mi,2688,25
+clio,mi,2646,392
+potterville,mi,2617,10
+charlevoix,mi,2513,2
+east jordan,mi,2351,2
+bridgman,mi,2291,10
+perry,mi,2188,3
+west branch,mi,2139,5
+harrison,mi,2114,1
+auburn,mi,2087,3
+galesburg,mi,2009,24
+newaygo,mi,1976,1
+evart,mi,1903,1
+bangor,mi,1885,2
+grayling,mi,1884,6
+new buffalo,mi,1883,14
+leslie,mi,1851,8
+watervliet,mi,1735,16
+montrose,mi,1657,78
+olivet,mi,1605,9
+standish,mi,1509,13
+coloma,mi,1483,12
+luna pier,mi,1436,4
+white cloud,mi,1408,3
+fennville,mi,1398,17
+pinconning,mi,1307,8
+laingsburg,mi,1283,4
+coleman,mi,1243,1
+scottville,mi,1214,1
+memphis,mi,1183,1
+petersburg,mi,1146,8
+saugatuck,mi,925,3
+grant,mi,894,2
+lake,mi,836,1
+gobles,mi,829,2
+omer,mi,313,4
+minneapolis,mn,382578,7972
+rochester,mn,106769,66
+duluth,mn,86265,64
+maple grove,mn,61567,253
+eden prairie,mn,60797,249
+burnsville,mn,60306,428
+lakeville,mn,55954,161
+minnetonka,mn,49734,18
+mankato,mn,39309,65
+moorhead,mn,38065,9
+shakopee,mn,37076,140
+cottage grove,mn,34589,34
+inver grove heights,mn,33880,196
+andover,mn,30598,6
+winona,mn,27592,16
+savage,mn,26911,38
+owatonna,mn,25599,31
+austin,mn,24718,20
+chaska,mn,23770,47
+faribault,mn,23352,42
+champlin,mn,23089,25
+elk river,mn,22974,82
+chanhassen,mn,22952,39
+prior lake,mn,22796,5
+hastings,mn,22172,95
+rosemount,mn,21874,53
+farmington,mn,21086,9
+northfield,mn,20007,37
+willmar,mn,19610,22
+forest lake,mn,18375,268
+stillwater,mn,18225,39
+albert lea,mn,18016,58
+hopkins,mn,17591,336
+anoka,mn,17142,34
+red wing,mn,16459,17
+hibbing,mn,16361,11
+buffalo,mn,15453,23
+hutchinson,mn,14178,11
+marshall,mn,13680,10
+brainerd,mn,13590,20
+new ulm,mn,13522,8
+bemidji,mn,13431,10
+north mankato,mn,13394,5
+hugo,mn,13332,58
+fergus falls,mn,13138,1
+sauk rapids,mn,12773,12
+worthington,mn,12764,22
+monticello,mn,12759,117
+cloquet,mn,12124,5
+alexandria,mn,11070,22
+grand rapids,mn,10869,8
+waconia,mn,10697,4
+fairmont,mn,10666,10
+north branch,mn,10125,87
+big lake,mn,10060,15
+hermantown,mn,9414,1
+waseca,mn,9410,8
+virginia,mn,8712,6
+rogers,mn,8597,231
+detroit lakes,mn,8569,23
+little falls,mn,8343,36
+cambridge,mn,8111,13
+lake elmo,mn,8069,38
+crookston,mn,7891,1
+wyoming,mn,7791,61
+victoria,mn,7345,5
+new prague,mn,7321,11
+albertville,mn,7044,38
+litchfield,mn,6726,6
+waite park,mn,6715,2
+belle plaine,mn,6661,24
+international falls,mn,6424,3
+kasson,mn,5931,6
+stewartville,mn,5916,18
+glencoe,mn,5631,10
+jordan,mn,5470,48
+delano,mn,5464,8
+montevideo,mn,5383,3
+morris,mn,5286,3
+redwood falls,mn,5254,5
+isanti,mn,5251,4
+zimmerman,mn,5228,5
+chisholm,mn,4976,5
+circle pines,mn,4918,115
+byron,mn,4914,2
+la crescent,mn,4830,5
+princeton,mn,4698,21
+windom,mn,4646,9
+becker,mn,4538,13
+lindstrom,mn,4442,3
+pipestone,mn,4317,1
+sauk centre,mn,4317,29
+rockford,mn,4316,3
+watertown,mn,4205,1
+elko new market,mn,4110,56
+wadena,mn,4088,8
+cannon falls,mn,4083,22
+le sueur,mn,4058,11
+cold spring,mn,4025,7
+dilworth,mn,4024,1
+scandia,mn,3936,8
+two harbors,mn,3745,3
+carver,mn,3724,2
+eveleth,mn,3718,6
+park rapids,mn,3709,6
+wayzata,mn,3688,25
+lonsdale,mn,3674,1
+sleepy eye,mn,3599,7
+melrose,mn,3598,16
+mora,mn,3571,5
+norwood young america,mn,3549,14
+bayport,mn,3471,4
+long prairie,mn,3458,5
+newport,mn,3435,94
+blue earth,mn,3353,13
+plainview,mn,3340,4
+jackson,mn,3299,10
+pine island,mn,3263,7
+zumbrota,mn,3252,17
+benson,mn,3240,2
+annandale,mn,3228,1
+perham,mn,2985,2
+staples,mn,2981,11
+montgomery,mn,2956,10
+milaca,mn,2946,5
+granite falls,mn,2897,11
+afton,mn,2886,68
+caledonia,mn,2868,3
+sandstone,mn,2849,9
+montrose,mn,2847,11
+chatfield,mn,2779,3
+moose lake,mn,2751,6
+cohasset,mn,2698,3
+cokato,mn,2694,2
+dodge center,mn,2670,2
+roseau,mn,2633,1
+foley,mn,2603,7
+glenwood,mn,2564,1
+albany,mn,2561,11
+lake crystal,mn,2549,6
+wabasha,mn,2521,4
+le center,mn,2499,2
+olivia,mn,2484,3
+spring valley,mn,2479,2
+paynesville,mn,2432,8
+osseo,mn,2430,215
+eagle lake,mn,2422,11
+crosby,mn,2386,2
+wells,mn,2343,4
+madelia,mn,2308,3
+gaylord,mn,2305,5
+janesville,mn,2256,6
+arlington,mn,2233,4
+excelsior,mn,2188,11
+aitkin,mn,2165,7
+tracy,mn,2163,1
+slayton,mn,2153,2
+springfield,mn,2152,1
+mountain lake,mn,2104,1
+maple lake,mn,2059,6
+blooming prairie,mn,1996,6
+eyota,mn,1977,12
+nisswa,mn,1971,1
+waterville,mn,1868,9
+kenyon,mn,1815,3
+hinckley,mn,1800,15
+gilbert,mn,1799,1
+lakeland,mn,1796,44
+braham,mn,1793,1
+warroad,mn,1781,1
+long lake,mn,1768,3
+maple plain,mn,1768,5
+mapleton,mn,1756,1
+mayer,mn,1749,2
+osakis,mn,1740,7
+clearwater,mn,1735,41
+rushford,mn,1731,3
+lester prairie,mn,1730,2
+lakefield,mn,1694,12
+lewiston,mn,1620,5
+madison,mn,1551,1
+fosston,mn,1527,1
+cologne,mn,1519,9
+dassel,mn,1469,9
+stacy,mn,1456,41
+winnebago,mn,1437,4
+richmond,mn,1422,4
+appleton,mn,1412,3
+winthrop,mn,1399,6
+avon,mn,1396,10
+glyndon,mn,1394,3
+pierz,mn,1393,8
+bagley,mn,1392,1
+minneota,mn,1392,1
+dundas,mn,1367,14
+frazee,mn,1350,6
+hayfield,mn,1340,2
+spring grove,mn,1330,1
+preston,mn,1325,4
+fulda,mn,1318,4
+menahga,mn,1306,3
+starbuck,mn,1302,1
+oronoco,mn,1300,7
+renville,mn,1287,1
+rice,mn,1275,12
+new london,mn,1251,13
+royalton,mn,1242,8
+medford,mn,1239,19
+fairfax,mn,1235,3
+mahnomen,mn,1214,2
+adrian,mn,1209,8
+new richland,mn,1203,2
+new york mills,mn,1199,8
+goodhue,mn,1176,1
+spicer,mn,1167,2
+hector,mn,1151,3
+grand meadow,mn,1139,1
+sherburn,mn,1137,3
+atwater,mn,1133,1
+harris,mn,1132,31
+truman,mn,1115,5
+baudette,mn,1106,1
+nicollet,mn,1093,4
+elgin,mn,1089,2
+wanamingo,mn,1086,10
+shafer,mn,1045,12
+bird island,mn,1042,2
+eden valley,mn,1042,1
+harmony,mn,1020,10
+madison lake,mn,1017,4
+parkers prairie,mn,1011,1
+morristown,mn,987,6
+nashwauk,mn,983,2
+houston,mn,979,14
+taylors falls,mn,976,4
+watkins,mn,962,2
+pine river,mn,944,7
+walker,mn,941,1
+deer river,mn,930,4
+morgan,mn,896,1
+henderson,mn,886,6
+onamia,mn,878,8
+battle lake,mn,875,6
+walnut grove,mn,871,1
+carlton,mn,862,12
+mazeppa,mn,842,1
+silver lake,mn,837,2
+lamberton,mn,824,3
+bovey,mn,804,2
+browerville,mn,790,2
+adams,mn,787,3
+blackduck,mn,785,3
+lake park,mn,783,1
+mabel,mn,780,1
+gibbon,mn,772,2
+cass lake,mn,770,5
+hancock,mn,765,1
+raymond,mn,764,2
+brownton,mn,762,5
+kimball,mn,762,15
+kerkhoven,mn,759,1
+isle,mn,751,1
+brooten,mn,743,2
+belgrade,mn,740,3
+dover,mn,735,4
+buffalo lake,mn,733,1
+hendricks,mn,713,1
+sebeka,mn,711,2
+holdingford,mn,708,1
+clarks grove,mn,706,17
+heron lake,mn,698,5
+wabasso,mn,696,1
+ellendale,mn,691,14
+hampton,mn,689,14
+minnesota lake,mn,687,1
+welcome,mn,686,1
+lake benton,mn,683,1
+hoffman,mn,681,1
+kasota,mn,675,4
+motley,mn,671,12
+elmore,mn,663,2
+alden,mn,661,6
+elysian,mn,652,3
+glenville,mn,643,17
+jasper,mn,633,1
+freeport,mn,632,4
+barnum,mn,613,14
+evansville,mn,612,6
+courtland,mn,611,26
+verndale,mn,602,3
+butterfield,mn,586,3
+good thunder,mn,583,1
+cook,mn,574,3
+ironton,mn,572,1
+green isle,mn,559,2
+claremont,mn,548,4
+sacred heart,mn,548,1
+clear lake,mn,545,9
+eagle bend,mn,535,4
+amboy,mn,534,1
+deerwood,mn,532,4
+floodwood,mn,528,5
+sabin,mn,522,2
+audubon,mn,519,2
+clearbrook,mn,518,1
+hamburg,mn,513,1
+pennock,mn,508,1
+danube,mn,505,1
+erskine,mn,503,1
+carlos,mn,502,1
+tower,mn,500,1
+bertha,mn,497,1
+altura,mn,493,2
+rothsay,mn,493,5
+kandiyohi,mn,491,1
+brandon,mn,489,5
+brewster,mn,473,14
+cosmos,mn,473,2
+pillager,mn,469,1
+bethel,mn,466,1
+brownsville,mn,466,2
+kellogg,mn,456,4
+lynd,mn,448,1
+ashby,mn,446,6
+bigfork,mn,446,2
+sturgeon lake,mn,439,1
+randolph,mn,436,20
+akeley,mn,432,4
+miltona,mn,424,3
+willow river,mn,415,2
+morton,mn,411,1
+fountain,mn,410,2
+waubun,mn,400,1
+wrenshall,mn,399,1
+mcgregor,mn,391,1
+nevis,mn,390,4
+badger,mn,375,1
+new germany,mn,372,4
+ghent,mn,370,2
+remer,mn,370,5
+ogilvie,mn,369,5
+maynard,mn,366,8
+swanville,mn,350,2
+grey eagle,mn,348,3
+canton,mn,346,1
+rushmore,mn,342,6
+dexter,mn,341,7
+sanborn,mn,339,1
+russell,mn,338,1
+vernon center,mn,332,2
+dakota,mn,323,7
+deer creek,mn,322,1
+plato,mn,320,1
+vesta,mn,319,3
+finlayson,mn,315,9
+hartland,mn,315,1
+hackensack,mn,313,1
+hanley falls,mn,304,4
+granada,mn,303,2
+lowry,mn,299,4
+beaver creek,mn,297,2
+kensington,mn,292,1
+cyrus,mn,288,1
+echo,mn,278,1
+chandler,mn,270,1
+orr,mn,267,2
+hewitt,mn,266,2
+kelliher,mn,262,1
+villard,mn,254,1
+dalton,mn,253,7
+backus,mn,250,7
+hayward,mn,250,8
+ruthton,mn,241,1
+bigelow,mn,235,2
+cromwell,mn,234,4
+lismore,mn,227,2
+magnolia,mn,222,5
+dennison,mn,212,2
+garrison,mn,210,3
+zumbro falls,mn,207,1
+wahkon,mn,206,1
+northome,mn,200,2
+dent,mn,192,2
+lucan,mn,191,1
+holland,mn,187,2
+south haven,mn,187,2
+kettle river,mn,180,1
+palisade,mn,167,1
+marietta,mn,162,1
+campbell,mn,158,2
+longville,mn,156,2
+twin lakes,mn,151,1
+avoca,mn,147,2
+brook park,mn,139,4
+garvin,mn,135,3
+bingham lake,mn,126,3
+alpha,mn,116,3
+bena,mn,116,1
+clitherall,mn,112,1
+new trier,mn,112,1
+laporte,mn,111,4
+sunburg,mn,100,4
+tamarack,mn,94,2
+henriette,mn,71,1
+fort ripley,mn,69,3
+dundee,mn,68,1
+kerrick,mn,65,1
+aldrich,mn,48,10
+hillman,mn,38,1
+jackson,ms,173514,575
+gulfport,ms,67793,143
+southaven,ms,48982,27
+hattiesburg,ms,45989,440
+biloxi,ms,44054,60
+meridian,ms,41148,28
+tupelo,ms,34546,8
+greenville,ms,34400,1
+olive branch,ms,33484,15
+horn lake,ms,26066,38
+clinton,ms,25216,12
+pearl,ms,25092,50
+madison,ms,24149,45
+ridgeland,ms,24047,45
+starkville,ms,23888,1
+vicksburg,ms,23856,46
+columbus,ms,23640,3
+pascagoula,ms,22392,14
+brandon,ms,21705,20
+oxford,ms,18916,51
+gautier,ms,18572,36
+laurel,ms,18540,13
+ocean springs,ms,17442,64
+natchez,ms,15792,9
+greenwood,ms,15205,1
+long beach,ms,14792,16
+corinth,ms,14573,2
+hernando,ms,14090,11
+moss point,ms,13704,95
+canton,ms,13189,12
+grenada,ms,13092,5
+mccomb,ms,12790,8
+mccomb,ms,12790,8
+brookhaven,ms,12513,4
+byram,ms,11489,25
+picayune,ms,10878,13
+petal,ms,10454,16
+booneville,ms,8743,2
+senatobia,ms,8165,8
+new albany,ms,8034,2
+flowood,ms,7823,49
+holly springs,ms,7699,3
+batesville,ms,7463,5
+richland,ms,6912,44
+louisville,ms,6631,1
+columbia,ms,6582,1
+waveland,ms,6435,1
+forest,ms,5684,1
+pontotoc,ms,5625,1
+crystal springs,ms,5044,16
+waynesboro,ms,5043,3
+pass christian,ms,4613,12
+leland,ms,4481,3
+ellisville,ms,4448,5
+wiggins,ms,4390,13
+hazlehurst,ms,4009,10
+fulton,ms,3961,5
+morton,ms,3462,1
+newton,ms,3373,5
+iuka,ms,3028,1
+lucedale,ms,2923,8
+poplarville,ms,2894,7
+durant,ms,2673,1
+collins,ms,2586,8
+mendenhall,ms,2504,2
+magnolia,ms,2420,3
+purvis,ms,2175,4
+lumberton,ms,2086,3
+itta bena,ms,2049,1
+nettleton,ms,1992,2
+raymond,ms,1933,1
+st. louis,mo,319294,4
+springfield,mo,159498,509
+independence,mo,116830,244
+columbia,mo,108500,63
+blue springs,mo,52575,51
+florissant,mo,52158,44
+joplin,mo,50150,23
+chesterfield,mo,47484,140
+cape girardeau,mo,37941,5
+wildwood,mo,35517,2
+ballwin,mo,30404,18
+raytown,mo,29526,3
+liberty,mo,29149,102
+wentzville,mo,29070,94
+maryland heights,mo,27472,77
+hazelwood,mo,25703,126
+grandview,mo,24475,56
+belton,mo,23116,41
+sedalia,mo,21387,1
+arnold,mo,20808,54
+rolla,mo,19559,19
+raymore,mo,19206,2
+nixa,mo,19022,2
+ozark,mo,17820,5
+sikeston,mo,16318,2
+clayton,mo,15939,4
+republic,mo,14751,33
+lebanon,mo,14474,7
+carthage,mo,14378,3
+washington,mo,13982,4
+jackson,mo,13758,6
+marshall,mo,13065,13
+grain valley,mo,12854,10
+fulton,mo,12790,2
+west plains,mo,11986,1
+neosho,mo,11835,1
+festus,mo,11602,41
+bridgeton,mo,11550,187
+troy,mo,10540,2
+bolivar,mo,10325,1
+union,mo,10204,13
+eureka,mo,10189,34
+harrisonville,mo,10019,4
+cameron,mo,9933,5
+smithville,mo,8425,2
+kearney,mo,8381,8
+boonville,mo,8319,22
+perryville,mo,8225,2
+warrenton,mo,7880,9
+oak grove,mo,7795,7
+carl junction,mo,7445,1
+sullivan,mo,7081,12
+pacific,mo,7002,19
+valley park,mo,6942,28
+bonne terre,mo,6864,4
+marshfield,mo,6633,6
+de soto,mo,6400,12
+charleston,mo,5947,1
+battlefield,mo,5590,1
+pevely,mo,5484,19
+weldon spring,mo,5443,3
+odessa,mo,5300,10
+willard,mo,5288,8
+savannah,mo,5057,3
+waynesville,mo,4830,2
+higginsville,mo,4797,5
+mountain grove,mo,4789,1
+peculiar,mo,4608,7
+mount vernon,mo,4575,12
+lamar,mo,4532,1
+hollister,mo,4426,2
+butler,mo,4219,2
+fenton,mo,4022,55
+camdenton,mo,3718,3
+ashland,mo,3707,1
+herculaneum,mo,3468,23
+cuba,mo,3356,6
+portageville,mo,3228,3
+new madrid,mo,3116,3
+rogersville,mo,3073,9
+riverside,mo,2937,35
+hillsboro,mo,2821,8
+potosi,mo,2660,3
+versailles,mo,2482,1
+concordia,mo,2450,6
+strafford,mo,2358,20
+seneca,mo,2336,1
+steele,mo,2172,6
+warsaw,mo,2127,1
+new haven,mo,2089,1
+lathrop,mo,2086,1
+richland,mo,1863,3
+hamilton,mo,1809,1
+shelbina,mo,1704,2
+bourbon,mo,1632,1
+sweet springs,mo,1484,8
+ash grove,mo,1472,11
+rich hill,mo,1396,2
+fair grove,mo,1393,4
+sarcoxie,mo,1330,10
+rock port,mo,1318,3
+new franklin,mo,1089,2
+lone jack,mo,1050,1
+new london,mo,974,1
+la grange,mo,931,1
+highlandville,mo,911,3
+sturgeon,mo,872,1
+benton,mo,863,1
+conway,mo,788,3
+gainesville,mo,773,4
+exeter,mo,772,2
+new florence,mo,769,9
+jonesburg,mo,768,14
+stewartsville,mo,750,1
+perry,mo,693,1
+walnut grove,mo,665,1
+matthews,mo,628,1
+west alton,mo,522,2
+bloomsdale,mo,521,2
+foristell,mo,505,13
+marston,mo,503,4
+newburg,mo,470,9
+ridgeway,mo,464,2
+holt,mo,447,4
+deepwater,mo,433,1
+rosebud,mo,409,1
+pattonsburg,mo,348,1
+centerview,mo,267,1
+craig,mo,248,5
+rocheport,mo,239,11
+mayview,mo,212,1
+high hill,mo,195,3
+nelson,mo,192,4
+blackwater,mo,162,2
+billings,mt,104170,5
+missoula,mt,66788,2
+great falls,mt,58505,4
+bozeman,mt,37280,4
+helena,mt,28190,1
+kalispell,mt,19927,4
+havre,mt,9310,2
+belgrade,mt,7389,3
+laurel,mt,6718,10
+whitefish,mt,6357,1
+glendive,mt,4935,2
+dillon,mt,4134,1
+hardin,mt,3505,2
+cut bank,mt,2869,1
+three forks,mt,1869,1
+roundup,mt,1788,1
+forsyth,mt,1777,4
+choteau,mt,1684,1
+big timber,mt,1641,2
+boulder,mt,1183,6
+omaha,ne,408958,4633
+lincoln,ne,258379,62
+bellevue,ne,50137,377
+grand island,ne,48520,7
+kearney,ne,30787,7
+fremont,ne,26397,3
+norfolk,ne,24210,1
+columbus,ne,22111,3
+papillion,ne,18894,200
+la vista,ne,15758,92
+scottsbluff,ne,15039,2
+beatrice,ne,12459,2
+lexington,ne,10230,1
+blair,ne,7990,13
+york,ne,7766,3
+seward,ne,6964,5
+sidney,ne,6757,10
+plattsmouth,ne,6502,4
+schuyler,ne,6211,2
+wayne,ne,5660,1
+aurora,ne,4479,4
+gretna,ne,4441,80
+gothenburg,ne,3574,1
+auburn,ne,3460,5
+west point,ne,3364,1
+waverly,ne,3277,6
+valentine,ne,2737,1
+ashland,ne,2453,6
+geneva,ne,2217,1
+milford,ne,2090,1
+valley,ne,1875,23
+tekamah,ne,1736,2
+springfield,ne,1529,21
+bennington,ne,1458,20
+wood river,ne,1325,1
+north bend,ne,1177,2
+louisville,ne,1106,1
+crawford,ne,997,1
+henderson,ne,991,1
+laurel,ne,964,1
+chappell,ne,929,3
+fort calhoun,ne,908,2
+peru,ne,865,1
+bassett,ne,619,1
+blue springs,ne,331,1
+reno,nv,225221,1034
+sparks,nv,90264,389
+fernley,nv,19368,23
+elko,nv,18297,65
+mesquite,nv,15276,1
+fallon,nv,8606,102
+winnemucca,nv,7396,7
+west wendover,nv,4410,16
+ely,nv,4255,17
+yerington,nv,3048,34
+carlin,nv,2368,17
+lovelock,nv,1894,4
+wells,nv,1292,57
+caliente,nv,1130,4
+manchester,nh,109565,370
+nashua,nh,86494,145
+concord,nh,42695,105
+dover,nh,29987,62
+rochester,nh,29752,36
+keene,nh,23409,24
+portsmouth,nh,20779,92
+laconia,nh,15951,20
+claremont,nh,13355,3
+lebanon,nh,13151,15
+franklin,nh,8477,15
+newark,nj,277140,748
+paterson,nj,146199,177
+elizabeth,nj,124969,185
+trenton,nj,84913,459
+clifton,nj,84136,260
+camden,nj,77344,150
+passaic,nj,69781,17
+union,nj,66455,204
+east orange,nj,64270,242
+bayonne,nj,63024,44
+vineland,nj,60724,19
+new brunswick,nj,55181,70
+perth amboy,nj,50814,47
+hoboken,nj,50005,1
+plainfield,nj,49808,13
+hackensack,nj,43010,60
+linden,nj,40499,90
+long branch,nj,30719,3
+garfield,nj,30487,3
+millville,nj,28400,27
+rahway,nj,27346,15
+englewood,nj,27147,37
+bridgeton,nj,25349,17
+summit,nj,21457,33
+pleasantville,nj,20249,20
+asbury park,nj,16116,20
+ocean,nj,11701,1
+somers point,nj,10795,22
+woodbury,nj,10174,147
+burlington,nj,9920,67
+brigantine,nj,9450,2
+south amboy,nj,8631,227
+northfield,nj,8624,1
+absecon,nj,8411,30
+linwood,nj,7092,3
+wildwood,nj,5325,2
+salem,nj,5146,10
+bordentown,nj,3924,123
+lambertville,nj,3906,9
+cape may,nj,3607,5
+beverly,nj,2577,7
+estell manor,nj,1735,1
+port republic,nj,1115,12
+albuquerque,nm,545852,1726
+las cruces,nm,97618,23
+rio rancho,nm,87521,2
+santa fe,nm,67947,25
+roswell,nm,48366,1
+clovis,nm,37775,3
+hobbs,nm,34122,5
+alamogordo,nm,30403,6
+carlsbad,nm,26138,3
+gallup,nm,21678,18
+deming,nm,14855,22
+las vegas,nm,13753,6
+artesia,nm,11301,2
+lovington,nm,11009,3
+espanola,nm,10224,3
+grants,nm,9182,7
+socorro,nm,9051,2
+belen,nm,7269,2
+raton,nm,6885,4
+aztec,nm,6763,1
+truth or consequences,nm,6475,4
+tucumcari,nm,5363,15
+santa rosa,nm,2848,16
+lordsburg,nm,2797,7
+jal,nm,2047,9
+moriarty,nm,1910,16
+new york,ny,19378102,1813
+new york,ny,8175133,1813
+buffalo,ny,261310,1371
+rochester,ny,210565,4090
+yonkers,ny,195976,475
+syracuse,ny,145170,537
+albany,ny,97856,995
+new rochelle,ny,77062,209
+mount vernon,ny,67292,176
+schenectady,ny,66135,311
+utica,ny,62235,177
+white plains,ny,56853,406
+niagara falls,ny,50193,60
+troy,ny,50129,92
+binghamton,ny,47376,34
+rome,ny,33725,83
+long beach,ny,33275,8
+poughkeepsie,ny,32736,35
+north tonawanda,ny,31568,20
+jamestown,ny,31146,3
+ithaca,ny,30014,11
+elmira,ny,29200,8
+newburgh,ny,28866,217
+middletown,ny,28086,38
+auburn,ny,27687,2
+watertown,ny,27023,7
+glen cove,ny,26964,5
+saratoga springs,ny,26586,110
+kingston,ny,23893,92
+peekskill,ny,23583,57
+lockport,ny,21165,36
+plattsburgh,ny,19989,7
+cortland,ny,19204,6
+amsterdam,ny,18620,34
+oswego,ny,18142,2
+cohoes,ny,16168,21
+rye,ny,15720,373
+beacon,ny,15541,105
+batavia,ny,15465,64
+tonawanda,ny,15130,120
+glens falls,ny,14700,4
+olean,ny,14452,4
+oneonta,ny,13901,11
+geneva,ny,13261,1
+dunkirk,ny,12563,47
+fulton,ny,11896,3
+oneida,ny,11393,9
+corning,ny,11183,2
+ogdensburg,ny,11128,1
+canandaigua,ny,10545,1
+watervliet,ny,10254,201
+rensselaer,ny,9392,93
+port jervis,ny,8828,17
+hornell,ny,8563,3
+hudson,ny,6713,70
+salamanca,ny,5815,1
+mechanicville,ny,5196,22
+little falls,ny,4946,45
+charlotte,nc,731424,25125
+raleigh,nc,403892,17244
+greensboro,nc,269666,853
+durham,nc,228330,610
+fayetteville,nc,200564,36
+wilmington,nc,106476,48
+high point,nc,104371,45
+greenville,nc,84554,5
+asheville,nc,83393,210
+concord,nc,79066,149
+gastonia,nc,71741,88
+jacksonville,nc,70145,4
+rocky mount,nc,57477,13
+burlington,nc,49963,86
+wilson,nc,49167,29
+kannapolis,nc,42625,89
+hickory,nc,40010,75
+goldsboro,nc,36437,8
+salisbury,nc,33662,74
+monroe,nc,32797,26
+new bern,nc,29524,5
+sanford,nc,28094,20
+thomasville,nc,26757,23
+asheboro,nc,25012,15
+statesville,nc,24532,141
+kinston,nc,21677,11
+lumberton,nc,21542,40
+shelby,nc,20323,11
+lexington,nc,18931,33
+lenoir,nc,18228,5
+morganton,nc,16918,30
+laurinburg,nc,15962,6
+albemarle,nc,15903,3
+roanoke rapids,nc,15754,10
+eden,nc,15527,2
+henderson,nc,15368,30
+reidsville,nc,14520,7
+graham,nc,14153,36
+mount holly,nc,13656,6
+hendersonville,nc,13137,26
+newton,nc,12968,21
+archdale,nc,11415,2
+mebane,nc,11393,41
+lincolnton,nc,10486,9
+mount airy,nc,10388,4
+kings mountain,nc,10296,28
+belmont,nc,10076,76
+washington,nc,9744,2
+rockingham,nc,9558,6
+dunn,nc,9263,50
+clinton,nc,8639,6
+oxford,nc,8461,17
+roxboro,nc,8362,4
+conover,nc,8165,20
+marion,nc,7838,20
+brevard,nc,7609,1
+king,nc,6904,2
+trinity,nc,6614,9
+hamlet,nc,6495,6
+cherryville,nc,5760,2
+whiteville,nc,5394,6
+raeford,nc,4611,7
+creedmoor,nc,4124,22
+randleman,nc,4113,4
+lowell,nc,3526,64
+southport,nc,2833,4
+claremont,nc,1352,9
+saluda,nc,713,15
+fargo,nd,105549,2
+bismarck,nd,61272,1
+grand forks,nd,52838,2
+mandan,nd,18331,1
+williston,nd,14716,1
+oakes,nd,1856,1
+glen ullin,nd,807,2
+mapleton,nd,762,1
+steele,nd,715,1
+medina,nd,308,1
+tappen,nd,197,1
+solen,nd,83,2
+amidon,nd,20,1
+columbus,oh,787033,3153
+cleveland,oh,396815,1765
+cincinnati,oh,296943,2633
+toledo,oh,287208,462
+akron,oh,199110,692
+dayton,oh,141527,2720
+canton,oh,73007,44
+youngstown,oh,66982,22
+lorain,oh,64097,4
+hamilton,oh,62477,63
+springfield,oh,60608,86
+kettering,oh,56163,2
+elyria,oh,54533,15
+lakewood,oh,52131,15
+cuyahoga falls,oh,49652,31
+euclid,oh,48920,33
+middletown,oh,48694,41
+mansfield,oh,47821,21
+newark,oh,47573,18
+mentor,oh,47159,13
+beavercreek,oh,45193,8
+strongsville,oh,44750,37
+fairfield,oh,42510,11
+dublin,oh,41751,162
+warren,oh,41557,5
+findlay,oh,41202,44
+lancaster,oh,38780,21
+lima,oh,38771,30
+marion,oh,36837,18
+westerville,oh,36120,240
+reynoldsburg,oh,35893,52
+stow,oh,34837,8
+delaware,oh,34753,363
+brunswick,oh,34255,13
+gahanna,oh,33248,1
+westlake,oh,32729,31
+north olmsted,oh,32718,24
+fairborn,oh,32352,25
+massillon,oh,32149,2
+mason,oh,30712,25
+north royalton,oh,30444,1
+bowling green,oh,30028,9
+north ridgeville,oh,29465,23
+kent,oh,28904,12
+hilliard,oh,28435,64
+medina,oh,26678,20
+barberton,oh,26550,42
+wooster,oh,26119,6
+sandusky,oh,25793,8
+xenia,oh,25719,28
+zanesville,oh,25487,13
+troy,oh,25058,20
+trotwood,oh,24431,2
+centerville,oh,23999,3
+athens,oh,23832,5
+solon,oh,23348,21
+maple heights,oh,23138,69
+avon lake,oh,22581,1
+alliance,oh,22322,3
+willoughby,oh,22268,17
+hudson,oh,22262,21
+marysville,oh,22094,31
+chillicothe,oh,21901,19
+wadsworth,oh,21567,18
+oxford,oh,21371,2
+sidney,oh,21229,12
+avon,oh,21193,16
+perrysburg,oh,20623,65
+piqua,oh,20522,20
+ashland,oh,20362,16
+oregon,oh,20291,8
+portsmouth,oh,20226,1
+rocky river,oh,20213,20
+miamisburg,oh,20181,238
+lebanon,oh,20033,51
+painesville,oh,19563,13
+broadview heights,oh,19400,8
+norwood,oh,19207,2
+ashtabula,oh,19124,9
+sylvania,oh,18965,19
+twinsburg,oh,18795,10
+eastlake,oh,18577,4
+pickerington,oh,18291,38
+tallmadge,oh,17537,4
+north canton,oh,17488,26
+springboro,oh,17409,31
+new philadelphia,oh,17288,2
+norwalk,oh,17012,2
+mount vernon,oh,16990,3
+fremont,oh,16734,16
+defiance,oh,16494,1
+streetsboro,oh,16028,3
+bay village,oh,15651,1
+vandalia,oh,15246,78
+pataskala,oh,14962,26
+maumee,oh,14286,47
+washington court house,oh,14192,1
+marietta,oh,14085,2
+brecksville,oh,13656,12
+worthington,oh,13575,6
+englewood,oh,13465,23
+fostoria,oh,13441,2
+bellefontaine,oh,13370,2
+circleville,oh,13314,17
+greenville,oh,13227,15
+clayton,oh,13209,46
+bedford,oh,13074,129
+dover,oh,12826,2
+wickliffe,oh,12750,20
+wilmington,oh,12520,11
+monroe,oh,12442,19
+salem,oh,12303,3
+blue ash,oh,12114,15
+norton,oh,12085,1
+loveland,oh,12081,36
+amherst,oh,12021,16
+beachwood,oh,11953,29
+trenton,oh,11869,3
+urbana,oh,11793,10
+franklin,oh,11771,28
+ravenna,oh,11724,1
+powell,oh,11500,96
+macedonia,oh,11188,23
+ironton,oh,11129,4
+van wert,oh,10846,1
+cambridge,oh,10635,11
+galion,oh,10512,11
+celina,oh,10400,2
+heath,oh,10310,10
+montgomery,oh,10251,1
+girard,oh,9958,6
+london,oh,9904,33
+harrison,oh,9897,19
+wapakoneta,oh,9867,15
+willoughby hills,oh,9485,1
+oakwood,oh,9202,3
+louisville,oh,9186,2
+sheffield lake,oh,9137,1
+napoleon,oh,8749,3
+eaton,oh,8407,21
+orrville,oh,8380,3
+oberlin,oh,8286,7
+kenton,oh,8262,1
+campbell,oh,8235,1
+bellevue,oh,8202,8
+hubbard,oh,7874,7
+fairlawn,oh,7437,1
+wauseon,oh,7332,12
+logan,oh,7152,6
+huron,oh,7149,1
+independence,oh,7133,135
+cortland,oh,7104,3
+delphos,oh,7101,1
+bellbrook,oh,6943,2
+milford,oh,6709,44
+hillsboro,oh,6605,17
+upper sandusky,oh,6596,1
+belpre,oh,6441,1
+jackson,oh,6397,6
+columbiana,oh,6384,4
+clyde,oh,6325,5
+moraine,oh,6307,62
+rossford,oh,6293,5
+willard,oh,6236,6
+geneva,oh,6215,2
+port clinton,oh,6056,4
+brookville,oh,5884,54
+new carlisle,oh,5785,14
+wellston,oh,5663,3
+uhrichsville,oh,5413,1
+nelsonville,oh,5392,2
+northwood,oh,5265,26
+chardon,oh,5148,41
+newton falls,oh,4795,10
+east palestine,oh,4721,2
+greenfield,oh,4639,1
+waverly,oh,4408,8
+sheffield village,oh,3982,1
+tulsa,ok,391906,6451
+norman,ok,110925,29
+broken arrow,ok,98850,136
+lawton,ok,96867,8
+edmond,ok,81405,613
+moore,ok,55081,45
+enid,ok,49379,1
+stillwater,ok,45688,3
+muskogee,ok,39223,5
+shawnee,ok,29857,51
+owasso,ok,28915,40
+ardmore,ok,24283,2
+yukon,ok,22709,502
+bixby,ok,20884,14
+sapulpa,ok,20544,23
+bethany,ok,19051,46
+sand springs,ok,18906,19
+claremore,ok,18581,42
+mustang,ok,17395,87
+jenks,ok,16924,19
+el reno,ok,16749,11
+miami,ok,13570,2
+okmulgee,ok,12321,8
+guymon,ok,11442,1
+choctaw,ok,11146,88
+weatherford,ok,10833,1
+glenpool,ok,10808,2
+guthrie,ok,10191,10
+warr acres,ok,10043,19
+coweta,ok,9943,3
+clinton,ok,9033,1
+sallisaw,ok,8880,1
+newcastle,ok,7685,3
+blanchard,ok,7670,1
+seminole,ok,7488,3
+catoosa,ok,7151,37
+blackwell,ok,7092,1
+idabel,ok,7010,1
+grove,ok,6623,1
+tecumseh,ok,6457,1
+pauls valley,ok,6187,3
+tuttle,ok,6019,2
+henryetta,ok,5927,5
+purcell,ok,5884,10
+holdenville,ok,5771,3
+vinita,ok,5743,5
+piedmont,ok,5720,10
+collinsville,ok,5606,15
+perry,ok,5126,2
+harrah,ok,5095,1
+sulphur,ok,4929,1
+marlow,ok,4662,1
+sayre,ok,4375,2
+bristow,ok,4222,7
+spencer,ok,3912,23
+nowata,ok,3731,1
+nichols hills,ok,3710,4
+hominy,ok,3565,1
+checotah,ok,3335,1
+cleveland,ok,3251,2
+okemah,ok,3223,3
+tonkawa,ok,3216,1
+atoka,ok,3107,1
+chandler,ok,3100,1
+drumright,ok,2907,4
+lindsay,ok,2840,2
+stroud,ok,2690,3
+davis,ok,2683,2
+marietta,ok,2626,2
+prague,ok,2386,4
+wynnewood,ok,2212,1
+pawnee,ok,2196,1
+elgin,ok,2156,2
+beggs,ok,1321,4
+erick,ok,1052,1
+portland,or,583776,5095
+eugene,or,156185,698
+salem,or,154637,797
+gresham,or,105594,45
+hillsboro,or,91611,125
+beaverton,or,89803,216
+bend,or,76639,448
+medford,or,74907,362
+springfield,or,59403,251
+corvallis,or,54462,81
+albany,or,50158,312
+lake oswego,or,36619,73
+grants pass,or,34533,304
+mcminnville,or,32187,86
+mcminnville,or,32187,86
+redmond,or,26215,198
+tualatin,or,26054,216
+west linn,or,25109,146
+woodburn,or,24080,168
+newberg,or,22068,138
+roseburg,or,21181,257
+forest grove,or,21083,40
+klamath falls,or,20840,324
+ashland,or,20078,303
+wilsonville,or,19509,120
+sherwood,or,18194,37
+central point,or,17169,195
+hermiston,or,16745,92
+pendleton,or,16612,249
+coos bay,or,15967,149
+troutdale,or,15962,50
+canby,or,15829,35
+lebanon,or,15518,85
+dallas,or,14583,41
+happy valley,or,13903,103
+the dalles,or,13620,201
+la grande,or,13082,177
+cornelius,or,11869,18
+gladstone,or,11497,23
+ontario,or,11366,109
+damascus,or,10539,69
+newport,or,9989,58
+north bend,or,9695,60
+cottage grove,or,9686,133
+sandy,or,9570,60
+monmouth,or,9534,34
+astoria,or,9477,138
+prineville,or,9253,66
+silverton,or,9222,37
+sweet home,or,8925,25
+fairview,or,8920,48
+independence,or,8590,40
+eagle point,or,8469,151
+florence,or,8466,110
+molalla,or,8108,44
+sutherlin,or,7810,58
+stayton,or,7644,26
+hood river,or,7167,55
+umatilla,or,6906,30
+scappoose,or,6592,42
+seaside,or,6457,163
+brookings,or,6336,84
+sheridan,or,6127,62
+talent,or,6066,41
+madras,or,6046,130
+winston,or,5379,10
+creswell,or,5031,50
+warrenton,or,4989,85
+tillamook,or,4935,92
+philomath,or,4584,15
+veneta,or,4561,25
+phoenix,or,4538,18
+reedsport,or,4154,76
+wood village,or,3878,3
+coquille,or,3866,71
+lafayette,or,3742,5
+aumsville,or,3584,15
+harrisburg,or,3567,58
+toledo,or,3465,62
+myrtle creek,or,3439,120
+mount angel,or,3286,10
+nyssa,or,3267,6
+boardman,or,3220,28
+oakridge,or,3205,102
+hubbard,or,3173,37
+dundee,or,3162,37
+jefferson,or,3098,121
+bandon,or,3066,53
+shady cove,or,2904,17
+burns,or,2806,56
+jacksonville,or,2785,46
+estacada,or,2695,36
+sublimity,or,2681,17
+dayton,or,2534,102
+myrtle point,or,2514,56
+gervais,or,2464,34
+gold beach,or,2253,56
+vernonia,or,2151,30
+rogue river,or,2131,24
+union,or,2121,14
+stanfield,or,2043,32
+sisters,or,2038,71
+waldport,or,2033,53
+willamina,or,2025,32
+carlton,or,2007,21
+north plains,or,1947,3
+enterprise,or,1940,12
+rainier,or,1895,78
+canyonville,or,1884,30
+cave junction,or,1883,42
+vale,or,1874,52
+turner,or,1854,2
+irrigon,or,1826,28
+banks,or,1777,47
+john day,or,1744,40
+clatskanie,or,1737,105
+elgin,or,1711,27
+lakeside,or,1699,5
+cannon beach,or,1690,5
+brownsville,or,1668,4
+la pine,or,1653,92
+amity,or,1614,36
+hines,or,1563,28
+pilot rock,or,1502,13
+depoe bay,or,1398,34
+culver,or,1357,37
+rockaway beach,or,1312,21
+heppner,or,1291,22
+gold hill,or,1220,102
+siletz,or,1212,2
+riddle,or,1185,28
+tangent,or,1164,65
+lyons,or,1161,22
+drain,or,1151,52
+cascade locks,or,1144,88
+port orford,or,1133,42
+athena,or,1126,7
+joseph,or,1081,2
+yoncalla,or,1047,26
+lowell,or,1045,30
+yamhill,or,1024,27
+oakland,or,927,104
+aurora,or,918,179
+halsey,or,904,34
+glendale,or,874,62
+merrill,or,844,7
+adair village,or,840,2
+scio,or,838,26
+wallowa,or,808,26
+garibaldi,or,779,4
+chiloquin,or,734,148
+echo,or,699,38
+yachats,or,690,40
+condon,or,682,9
+weston,or,667,55
+gaston,or,637,21
+monroe,or,617,6
+dufur,or,604,24
+arlington,or,586,90
+cove,or,552,2
+mount vernon,or,527,16
+fossil,or,473,10
+gates,or,471,29
+huntington,or,440,123
+north powder,or,439,53
+mosier,or,433,29
+maupin,or,418,83
+haines,or,416,10
+wheeler,or,414,1
+wasco,or,410,70
+adams,or,350,12
+ione,or,329,4
+moro,or,324,20
+imbler,or,306,11
+halfway,or,288,3
+nehalem,or,271,40
+westfir,or,253,29
+paisley,or,243,12
+lostine,or,213,5
+sumpter,or,204,23
+detroit,or,202,39
+seneca,or,199,7
+long creek,or,197,24
+elkton,or,195,34
+helix,or,184,11
+jordan valley,or,181,89
+grass valley,or,164,33
+richland,or,156,10
+idanha,or,134,24
+mitchell,or,130,28
+monument,or,128,1
+unity,or,71,2
+antelope,or,46,14
+shaniko,or,36,37
+philadelphia,pa,1526006,1677
+pittsburgh,pa,305704,1626
+allentown,pa,118032,235
+erie,pa,101786,52
+reading,pa,88082,58
+scranton,pa,76089,42
+bethlehem,pa,74982,136
+lancaster,pa,59322,1045
+harrisburg,pa,49528,417
+altoona,pa,46320,16
+york,pa,43718,1595
+chester,pa,33972,108
+williamsport,pa,29381,42
+easton,pa,26800,85
+lebanon,pa,25477,88
+hazleton,pa,25340,8
+new castle,pa,23273,25
+johnstown,pa,20978,18
+mckeesport,pa,19731,8
+mckeesport,pa,19731,8
+greensburg,pa,14892,92
+pottsville,pa,14324,7
+butler,pa,13757,32
+washington,pa,13663,44
+meadville,pa,13388,15
+new kensington,pa,13116,13
+coatesville,pa,13100,19
+nanticoke,pa,10465,2
+uniontown,pa,10372,3
+sunbury,pa,9905,10
+lock haven,pa,9772,14
+warren,pa,9710,1
+jeannette,pa,9654,21
+aliquippa,pa,9438,8
+beaver falls,pa,8987,10
+carbondale,pa,8891,1
+bradford,pa,8770,1
+latrobe,pa,8338,28
+pittston,pa,7739,25
+connellsville,pa,7637,2
+shamokin,pa,7374,4
+clairton,pa,6796,14
+corry,pa,6605,1
+franklin,pa,6545,1
+titusville,pa,5601,2
+duquesne,pa,5565,7
+monongahela,pa,4300,3
+providence,ri,178042,1539
+warwick,ri,82672,280
+cranston,ri,80387,221
+pawtucket,ri,71148,212
+east providence,ri,47037,226
+woonsocket,ri,41186,4
+newport,ri,24672,12
+central falls,ri,19376,6
+columbia,sc,129272,6202
+charleston,sc,120083,898
+north charleston,sc,97471,864
+rock hill,sc,66154,554
+greenville,sc,58409,5475
+sumter,sc,40524,522
+florence,sc,37056,975
+spartanburg,sc,37013,2337
+goose creek,sc,35938,281
+aiken,sc,29524,523
+myrtle beach,sc,27109,1394
+anderson,sc,26686,1496
+greer,sc,25515,1189
+greenwood,sc,23222,435
+mauldin,sc,22889,25
+north augusta,sc,21348,289
+easley,sc,19993,493
+simpsonville,sc,18238,801
+hanahan,sc,17997,14
+conway,sc,17103,767
+west columbia,sc,14988,993
+orangeburg,sc,13964,750
+clemson,sc,13905,38
+north myrtle beach,sc,13752,21
+cayce,sc,12528,22
+gaffney,sc,12414,681
+beaufort,sc,12361,349
+newberry,sc,10277,223
+georgetown,sc,9163,204
+laurens,sc,9139,198
+bennettsville,sc,9069,111
+lancaster,sc,8526,456
+clinton,sc,8490,257
+union,sc,8393,123
+seneca,sc,8102,356
+fountain inn,sc,7799,166
+hartsville,sc,7764,218
+york,sc,7736,193
+marion,sc,6939,91
+camden,sc,6838,259
+dillon,sc,6788,202
+darlington,sc,6289,234
+chester,sc,5607,149
+walterboro,sc,5398,504
+abbeville,sc,5237,65
+barnwell,sc,4750,45
+mullins,sc,4663,68
+travelers rest,sc,4576,235
+walhalla,sc,4263,51
+belton,sc,4134,165
+isle of palms,sc,4133,1
+manning,sc,4108,132
+woodruff,sc,4090,112
+denmark,sc,3538,18
+bishopville,sc,3471,224
+liberty,sc,3269,187
+pickens,sc,3126,158
+hardeeville,sc,2952,201
+westminster,sc,2418,121
+loris,sc,2396,191
+wellford,sc,2378,161
+landrum,sc,2376,99
+inman,sc,2321,297
+johnsonville,sc,1480,44
+chesnee,sc,868,142
+sioux falls,sd,153888,2
+mitchell,sd,15254,1
+brandon,sd,8785,1
+redfield,sd,2333,1
+miller,sd,1489,1
+freeman,sd,1306,1
+plankinton,sd,707,1
+menno,sd,608,1
+hurley,sd,415,1
+piedmont,sd,222,1
+memphis,tn,646889,2791
+knoxville,tn,178874,915
+chattanooga,tn,167674,1257
+clarksville,tn,132929,39
+murfreesboro,tn,108755,103
+jackson,tn,65211,37
+franklin,tn,62487,203
+hendersonville,tn,51372,43
+kingsport,tn,48205,36
+cleveland,tn,41285,36
+germantown,tn,38844,6
+brentwood,tn,37060,440
+columbia,tn,34681,17
+la vergne,tn,32588,82
+cookeville,tn,30435,45
+gallatin,tn,30278,12
+oak ridge,tn,29330,3
+morristown,tn,29137,8
+spring hill,tn,29036,13
+maryville,tn,27465,35
+bristol,tn,26702,8
+lebanon,tn,26190,49
+mount juliet,tn,23671,34
+shelbyville,tn,20335,1
+tullahoma,tn,18655,3
+dyersburg,tn,17145,5
+springfield,tn,16440,7
+goodlettsville,tn,15921,275
+sevierville,tn,14807,27
+dickson,tn,14538,37
+elizabethton,tn,14176,3
+mcminnville,tn,13605,1
+mcminnville,tn,13605,1
+athens,tn,13458,9
+portland,tn,11480,7
+martin,tn,11473,1
+lewisburg,tn,11100,8
+crossville,tn,10795,25
+brownsville,tn,10292,4
+white house,tn,10255,4
+millington,tn,10176,30
+paris,tn,10156,1
+manchester,tn,10102,41
+clinton,tn,9841,13
+winchester,tn,8530,1
+alcoa,tn,8449,19
+ripley,tn,8445,1
+pulaski,tn,7870,8
+milan,tn,7851,2
+fairview,tn,7720,9
+lexington,tn,7652,7
+la follette,tn,7456,4
+dayton,tn,7191,4
+newport,tn,6945,17
+fayetteville,tn,6827,2
+harriman,tn,6350,24
+henderson,tn,6309,2
+kingston,tn,5934,19
+pigeon forge,tn,5875,2
+sweetwater,tn,5764,8
+rockwood,tn,5562,29
+sparta,tn,4925,2
+dunlap,tn,4815,4
+madisonville,tn,4577,2
+smithville,tn,4530,1
+lafayette,tn,4474,1
+harrogate,tn,4389,1
+pleasant view,tn,4149,16
+waverly,tn,4105,6
+gatlinburg,tn,3944,2
+hohenwald,tn,3757,2
+camden,tn,3582,2
+etowah,tn,3490,1
+south pittsburg,tn,2992,13
+waynesboro,tn,2449,1
+louisville,tn,2439,13
+bells,tn,2437,4
+maynardville,tn,2413,1
+parsons,tn,2373,3
+decherd,tn,2361,4
+jellico,tn,2355,3
+cross plains,tn,1714,3
+loretto,tn,1714,2
+whitwell,tn,1699,4
+pikeville,tn,1608,2
+celina,tn,1495,4
+watertown,tn,1477,3
+dover,tn,1417,1
+erin,tn,1324,3
+ardmore,tn,1213,5
+red boiling springs,tn,1112,2
+lobelville,tn,897,1
+orlinda,tn,859,1
+crab orchard,tn,752,5
+niota,tn,719,2
+philadelphia,tn,656,10
+charleston,tn,651,14
+adams,tn,633,1
+moscow,tn,556,1
+copperhill,tn,354,1
+cedar hill,tn,314,15
+medon,tn,178,1
+houston,tx,2099451,25228
+san antonio,tx,1327407,7000
+dallas,tx,1197816,14182
+austin,tx,790390,16103
+fort worth,tx,741206,2264
+el paso,tx,649121,3989
+arlington,tx,365438,751
+corpus christi,tx,305215,21
+plano,tx,259841,446
+laredo,tx,236091,8
+lubbock,tx,229573,5
+garland,tx,226876,265
+irving,tx,216290,794
+amarillo,tx,190695,9
+grand prairie,tx,175396,666
+brownsville,tx,175023,5
+pasadena,tx,149043,257
+mesquite,tx,139824,711
+mckinney,tx,131117,60
+mckinney,tx,131117,60
+mcallen,tx,129877,4
+mcallen,tx,129877,4
+killeen,tx,127921,3
+waco,tx,124805,63
+carrollton,tx,119097,407
+beaumont,tx,118296,36
+abilene,tx,117063,19
+frisco,tx,116989,67
+denton,tx,113383,200
+midland,tx,111147,16
+wichita falls,tx,104553,522
+odessa,tx,99940,29
+round rock,tx,99887,173
+richardson,tx,99223,408
+tyler,tx,96900,27
+lewisville,tx,95290,273
+san angelo,tx,93200,3
+pearland,tx,91252,80
+allen,tx,84246,59
+longview,tx,80455,78
+sugar land,tx,78817,85
+edinburg,tx,77100,25
+mission,tx,77058,15
+bryan,tx,76201,8
+baytown,tx,71802,68
+pharr,tx,70400,9
+temple,tx,66102,23
+harlingen,tx,64849,5
+north richland hills,tx,63343,61
+victoria,tx,62592,8
+new braunfels,tx,57740,69
+mansfield,tx,56368,13
+conroe,tx,56207,160
+rowlett,tx,56199,99
+port arthur,tx,53818,1
+euless,tx,51277,80
+desoto,tx,49047,33
+cedar park,tx,48937,132
+galveston,tx,47743,19
+georgetown,tx,47400,59
+bedford,tx,46979,104
+pflugerville,tx,46936,622
+grapevine,tx,46334,152
+cedar hill,tx,45028,17
+san marcos,tx,44894,84
+wylie,tx,41427,4
+keller,tx,39627,1
+coppell,tx,38659,23
+huntsville,tx,38548,5
+duncanville,tx,38524,155
+sherman,tx,38521,11
+rockwall,tx,37490,120
+hurst,tx,37337,155
+burleson,tx,36690,54
+texarkana,tx,36411,1
+lancaster,tx,36361,192
+the colony,tx,36328,22
+friendswood,tx,35805,69
+weslaco,tx,35670,6
+del rio,tx,35591,1
+lufkin,tx,35067,15
+san juan,tx,33856,2
+la porte,tx,33800,34
+nacogdoches,tx,32996,7
+socorro,tx,32013,21
+deer park,tx,32010,37
+schertz,tx,31465,67
+rosenberg,tx,30618,20
+waxahachie,tx,29621,71
+kyle,tx,28016,60
+big spring,tx,27282,13
+lake jackson,tx,26849,5
+harker heights,tx,26700,2
+southlake,tx,26575,26
+leander,tx,26521,93
+eagle pass,tx,26248,2
+little elm,tx,25898,1
+greenville,tx,25557,19
+weatherford,tx,25250,28
+seguin,tx,25175,11
+paris,tx,25171,1
+san benito,tx,24250,7
+alvin,tx,24236,13
+corsicana,tx,23770,8
+balch springs,tx,23728,141
+marshall,tx,23523,7
+colleyville,tx,22807,1
+denison,tx,22682,5
+kerrville,tx,22347,2
+plainview,tx,22194,3
+benbrook,tx,21234,1
+sachse,tx,20329,3
+corinth,tx,19935,3
+saginaw,tx,19806,1
+alice,tx,19104,5
+angleton,tx,18862,22
+palestine,tx,18712,2
+dickinson,tx,18680,57
+orange,tx,18595,9
+ennis,tx,18513,17
+alamo,tx,18353,10
+belton,tx,18216,15
+converse,tx,18198,30
+midlothian,tx,18037,7
+stafford,tx,17693,81
+south houston,tx,16983,6
+bellaire,tx,16855,125
+mineral wells,tx,16788,1
+gainesville,tx,16002,5
+terrell,tx,15816,20
+donna,tx,15798,5
+mercedes,tx,15570,3
+mount pleasant,tx,15564,6
+sulphur springs,tx,15449,1
+hereford,tx,15370,1
+taylor,tx,15191,2
+humble,tx,15133,350
+seagoville,tx,14835,4
+hutto,tx,14698,18
+dumas,tx,14691,1
+forney,tx,14661,29
+jacksonville,tx,14544,1
+la marque,tx,14509,19
+katy,tx,14102,137
+henderson,tx,13712,1
+canyon,tx,13303,1
+borger,tx,13251,4
+live oak,tx,13131,11
+kilgore,tx,12975,2
+beeville,tx,12863,2
+crowley,tx,12838,3
+lockhart,tx,12698,11
+forest hill,tx,12355,10
+alton,tx,12341,1
+port lavaca,tx,12248,1
+santa fe,tx,12222,5
+freeport,tx,12049,11
+seabrook,tx,11952,13
+richmond,tx,11679,35
+el campo,tx,11602,3
+robstown,tx,11487,1
+lakeway,tx,11391,8
+raymondville,tx,11284,1
+clute,tx,11211,4
+snyder,tx,11202,4
+vernon,tx,11002,2
+sweetwater,tx,10906,19
+galena park,tx,10887,1
+burkburnett,tx,10811,1
+red oak,tx,10769,24
+tomball,tx,10753,50
+vidor,tx,10579,1
+fredericksburg,tx,10530,4
+boerne,tx,10471,12
+webster,tx,10400,148
+bonham,tx,10127,1
+roma,tx,9765,2
+pearsall,tx,9146,1
+pecos,tx,8780,18
+hillsboro,tx,8456,5
+woodway,tx,8452,1
+liberty,tx,8397,3
+fort stockton,tx,8283,9
+anna,tx,8249,5
+elgin,tx,8135,34
+granbury,tx,7978,1
+richland hills,tx,7801,8
+cleveland,tx,7675,11
+jersey village,tx,7620,2
+jasper,tx,7590,1
+helotes,tx,7341,7
+la feria,tx,7302,2
+buda,tx,7295,112
+gonzales,tx,7237,4
+bastrop,tx,7218,5
+lake dallas,tx,7105,64
+hitchcock,tx,6961,4
+monahans,tx,6953,2
+crockett,tx,6950,8
+sanger,tx,6916,21
+princeton,tx,6807,1
+kennedale,tx,6763,1
+kaufman,tx,6703,2
+lampasas,tx,6681,1
+seminole,tx,6430,1
+fate,tx,6357,2
+iowa park,tx,6355,4
+keene,tx,6106,1
+childress,tx,6105,1
+marble falls,tx,6077,12
+decatur,tx,6042,1
+lago vista,tx,6041,6
+celina,tx,6028,1
+sealy,tx,6019,7
+burnet,tx,5987,10
+roanoke,tx,5962,32
+joshua,tx,5910,1
+hempstead,tx,5770,2
+kermit,tx,5708,1
+willis,tx,5662,13
+rusk,tx,5551,3
+los fresnos,tx,5542,5
+selma,tx,5540,5
+brady,tx,5528,1
+edna,tx,5499,1
+palmview,tx,5460,1
+luling,tx,5411,8
+post,tx,5376,1
+carrizo springs,tx,5368,1
+windcrest,tx,5364,11
+hutchins,tx,5338,35
+bowie,tx,5218,2
+manvel,tx,5179,24
+muleshoe,tx,5158,2
+manor,tx,5037,595
+port isabel,tx,5006,1
+falfurrias,tx,4981,1
+mathis,tx,4942,3
+granite shoals,tx,4910,2
+gilmer,tx,4905,2
+lindale,tx,4818,1
+diboll,tx,4776,4
+coleman,tx,4709,2
+brookshire,tx,4702,57
+melissa,tx,4695,5
+la grange,tx,4641,4
+bulverde,tx,4630,1
+new boston,tx,4550,3
+hearne,tx,4459,3
+madisonville,tx,4396,2
+devine,tx,4350,2
+eastland,tx,3960,1
+bee cave,tx,3925,7
+cisco,tx,3899,7
+dilley,tx,3894,1
+pilot point,tx,3856,1
+whitesboro,tx,3793,2
+alvarado,tx,3785,17
+ballinger,tx,3767,1
+clyde,tx,3713,4
+wilmer,tx,3682,7
+columbus,tx,3655,2
+eagle lake,tx,3639,1
+cotulla,tx,3603,15
+canton,tx,3581,5
+hallsville,tx,3577,2
+teague,tx,3560,10
+wills point,tx,3524,7
+crane,tx,3353,3
+farmersville,tx,3301,1
+kenedy,tx,3296,1
+clarksville,tx,3285,2
+argyle,tx,3282,17
+justin,tx,3246,2
+edcouch,tx,3161,7
+henrietta,tx,3141,4
+bishop,tx,3134,1
+stamford,tx,3124,1
+west lake hills,tx,3063,102
+van alstyne,tx,3046,1
+shavano park,tx,3035,2
+sonora,tx,3027,1
+brazoria,tx,3019,2
+fairfield,tx,2951,1
+crandall,tx,2858,3
+schulenburg,tx,2852,1
+needville,tx,2823,1
+west,tx,2807,3
+abernathy,tx,2805,3
+electra,tx,2791,1
+eden,tx,2766,1
+seymour,tx,2740,3
+aledo,tx,2716,21
+van,tx,2632,1
+wimberley,tx,2626,3
+aubrey,tx,2595,8
+junction,tx,2574,12
+daingerfield,tx,2560,3
+hallettsville,tx,2550,1
+lytle,tx,2492,2
+stanton,tx,2492,7
+glen rose,tx,2444,1
+ferris,tx,2436,18
+odem,tx,2389,1
+rio hondo,tx,2356,2
+waller,tx,2326,3
+east bernard,tx,2272,1
+anahuac,tx,2243,1
+waskom,tx,2160,7
+shenandoah,tx,2134,13
+huntington,tx,2118,1
+mason,tx,2114,2
+jefferson,tx,2106,2
+yorktown,tx,2092,1
+clarendon,tx,2026,1
+ganado,tx,2003,1
+goliad,tx,1908,7
+stinnett,tx,1881,1
+buffalo,tx,1856,5
+jonestown,tx,1834,19
+dripping springs,tx,1788,9
+kemah,tx,1773,4
+holliday,tx,1758,4
+blanco,tx,1739,1
+de kalb,tx,1699,3
+lorena,tx,1691,2
+brackettville,tx,1688,1
+hudson oaks,tx,1662,1
+troy,tx,1645,21
+itasca,tx,1644,1
+bartlett,tx,1623,1
+splendora,tx,1615,3
+franklin,tx,1564,2
+grandview,tx,1561,4
+rhome,tx,1522,2
+haslet,tx,1517,4
+baird,tx,1496,4
+meridian,tx,1493,1
+elmendorf,tx,1488,24
+natalia,tx,1431,4
+granger,tx,1419,2
+hico,tx,1379,4
+bertram,tx,1353,2
+caddo mills,tx,1338,1
+roscoe,tx,1322,9
+orange grove,tx,1318,1
+emory,tx,1239,1
+iraan,tx,1229,1
+kemp,tx,1154,2
+florence,tx,1136,5
+fulshear,tx,1134,2
+anton,tx,1126,1
+von ormy,tx,1085,36
+marion,tx,1066,2
+waelder,tx,1065,2
+groveton,tx,1057,1
+maud,tx,1056,2
+new waverly,tx,1032,6
+omaha,tx,1021,5
+jarrell,tx,984,2
+liberty hill,tx,967,9
+wink,tx,940,1
+rice,tx,923,6
+vega,tx,884,1
+clarksville,tx,865,2
+bandera,tx,857,1
+pineland,tx,850,1
+beckville,tx,847,5
+thrall,tx,839,2
+valley view,tx,757,2
+sunset valley,tx,749,7
+zavalla,tx,713,1
+petrolia,tx,686,1
+beasley,tx,641,5
+campbell,tx,638,1
+montgomery,tx,621,1
+colmesneil,tx,596,1
+encinal,tx,559,3
+byers,tx,496,1
+liverpool,tx,482,2
+balmorhea,tx,479,4
+pattison,tx,472,1
+abbott,tx,356,9
+barstow,tx,349,1
+kennard,tx,337,2
+hedley,tx,329,3
+warren,tx,298,2
+goldsmith,tx,257,2
+westbrook,tx,253,2
+pecan gap,tx,203,1
+creedmoor,tx,202,7
+provo,ut,112488,195
+west jordan,ut,103712,241
+orem,ut,88328,203
+sandy,ut,87461,338
+ogden,ut,82825,836
+layton,ut,67311,186
+taylorsville,ut,58652,32
+south jordan,ut,50418,348
+logan,ut,48174,6
+lehi,ut,47407,346
+bountiful,ut,42552,64
+draper,ut,42274,448
+riverton,ut,38753,77
+roy,ut,36884,86
+spanish fork,ut,34691,189
+pleasant grove,ut,33509,45
+tooele,ut,31605,167
+clearfield,ut,30112,197
+springville,ut,29466,54
+midvale,ut,27964,264
+kaysville,ut,27300,139
+american fork,ut,26263,144
+syracuse,ut,24331,22
+south salt lake,ut,23617,11
+herriman,ut,21785,29
+eagle mountain,ut,21415,7
+washington,ut,18761,23
+payson,ut,18294,57
+farmington,ut,18275,162
+saratoga springs,ut,17781,12
+north salt lake,ut,16322,186
+highland,ut,15523,1
+centerville,ut,15335,96
+hurricane,ut,13748,69
+west haven,ut,10272,2
+lindon,ut,10070,42
+woods cross,ut,9761,90
+alpine,ut,9555,1
+smithfield,ut,9495,2
+santaquin,ut,9128,45
+vernal,ut,9089,38
+grantsville,ut,8893,36
+price,ut,8715,26
+mapleton,ut,7979,12
+tremonton,ut,7647,31
+richfield,ut,7551,63
+hooper,ut,7218,2
+ephraim,ut,6135,5
+roosevelt,ut,6046,17
+nephi,ut,5389,92
+moab,ut,5046,13
+fruit heights,ut,4987,6
+kanab,ut,4312,3
+midway,ut,3845,8
+morgan,ut,3687,127
+delta,ut,3436,15
+wellsville,ut,3432,7
+blanding,ut,3375,8
+gunnison,ut,3285,5
+manti,ut,3276,8
+mount pleasant,ut,3260,13
+beaver,ut,3112,35
+parowan,ut,2790,8
+salina,ut,2489,23
+fillmore,ut,2435,109
+garland,ut,2400,18
+monroe,ut,2256,4
+helper,ut,2201,23
+huntington,ut,2129,9
+monticello,ut,1972,38
+kamas,ut,1811,24
+willard,ut,1772,68
+enterprise,ut,1711,5
+duchesne,ut,1690,18
+wellington,ut,1676,5
+ferron,ut,1626,11
+mona,ut,1547,20
+panguitch,ut,1520,17
+honeyville,ut,1441,5
+milford,ut,1409,7
+wendover,ut,1400,41
+coalville,ut,1363,105
+east carbon,ut,1301,9
+fairview,ut,1247,24
+green river,ut,952,37
+escalante,ut,797,4
+corinne,ut,685,3
+eureka,ut,669,4
+myton,ut,569,4
+burlington,vt,42417,4
+south burlington,vt,17904,6
+rutland,vt,16495,2
+montpelier,vt,7855,11
+newport,vt,4589,2
+virginia beach,va,437994,571
+norfolk,va,242803,1388
+chesapeake,va,222209,523
+richmond,va,204214,5753
+newport news,va,180719,394
+alexandria,va,139966,822
+hampton,va,137436,295
+roanoke,va,97032,509
+portsmouth,va,95535,187
+suffolk,va,84585,130
+lynchburg,va,75568,82
+harrisonburg,va,48914,99
+charlottesville,va,43475,256
+danville,va,43055,22
+manassas,va,37821,256
+petersburg,va,32420,256
+winchester,va,26203,135
+salem,va,24802,146
+fredericksburg,va,24286,463
+staunton,va,23746,111
+hopewell,va,22591,20
+fairfax,va,22565,725
+waynesboro,va,21006,104
+bristol,va,17835,47
+colonial heights,va,17411,134
+radford,va,16408,14
+manassas park,va,14273,3
+williamsburg,va,14068,261
+martinsville,va,13821,29
+falls church,va,12332,318
+franklin,va,8582,4
+galax,va,7042,6
+lexington,va,7042,44
+buena vista,va,6650,8
+bedford,va,6222,20
+covington,va,5961,44
+emporia,va,5927,59
+norton,va,3958,2
+seattle,wa,608660,7301
+spokane,wa,208916,409
+tacoma,wa,198397,1349
+vancouver,wa,161791,442
+bellevue,wa,122363,721
+everett,wa,103019,634
+kent,wa,92411,489
+yakima,wa,91067,5
+renton,wa,90927,723
+spokane valley,wa,89755,32
+federal way,wa,89306,301
+bellingham,wa,80885,299
+kennewick,wa,73917,6
+auburn,wa,70180,296
+marysville,wa,60020,262
+pasco,wa,59781,2
+lakewood,wa,58163,208
+redmond,wa,54144,122
+shoreline,wa,53007,25
+kirkland,wa,48787,214
+richland,wa,48058,1
+olympia,wa,46478,295
+sammamish,wa,45780,4
+lacey,wa,42393,14
+edmonds,wa,39709,51
+bremerton,wa,37729,63
+puyallup,wa,37022,214
+longview,wa,36648,26
+lynnwood,wa,35836,442
+bothell,wa,33505,358
+burien,wa,33313,6
+mount vernon,wa,31743,102
+walla walla,wa,31731,1
+university place,wa,31144,1
+issaquah,wa,30434,102
+pullman,wa,29799,2
+des moines,wa,29673,11
+lake stevens,wa,28069,84
+seatac,wa,26909,10
+bainbridge island,wa,23025,1
+mercer island,wa,22699,146
+maple valley,wa,22684,34
+oak harbor,wa,22075,23
+kenmore,wa,20460,2
+moses lake,wa,20366,1
+mukilteo,wa,20254,21
+mountlake terrace,wa,19909,166
+camas,wa,19355,9
+tukwila,wa,19107,11
+port angeles,wa,19038,18
+mill creek,wa,18244,4
+ellensburg,wa,18174,16
+arlington,wa,17926,171
+battle ground,wa,17571,15
+bonney lake,wa,17374,15
+tumwater,wa,17371,1
+monroe,wa,17304,61
+aberdeen,wa,16896,51
+centralia,wa,16336,19
+sunnyside,wa,15858,1
+anacortes,wa,15778,26
+washougal,wa,14095,29
+east wenatchee,wa,13190,1
+lake forest park,wa,12598,1
+lynden,wa,11951,39
+kelso,wa,11925,38
+ferndale,wa,11415,65
+port orchard,wa,11144,47
+woodinville,wa,10938,76
+snoqualmie,wa,10670,46
+enumclaw,wa,10669,28
+cheney,wa,10590,14
+newcastle,wa,10380,2
+shelton,wa,9834,29
+sumner,wa,9451,112
+edgewood,wa,9387,3
+poulsbo,wa,9200,55
+fife,wa,9173,2
+port townsend,wa,9113,34
+snohomish,wa,9098,158
+toppenish,wa,8949,2
+hoquiam,wa,8726,20
+burlington,wa,8388,73
+dupont,wa,8199,64
+ephrata,wa,7664,1
+liberty lake,wa,7591,10
+chehalis,wa,7259,55
+gig harbor,wa,7126,104
+milton,wa,6968,43
+yelm,wa,6848,5
+quincy,wa,6750,1
+orting,wa,6746,24
+duvall,wa,6695,5
+pacific,wa,6606,59
+sequim,wa,6606,14
+stanwood,wa,6231,27
+airway heights,wa,6114,2
+brier,wa,6087,2
+north bend,wa,5731,48
+prosser,wa,5714,1
+ocean shores,wa,5569,9
+woodland,wa,5509,22
+medical lake,wa,5060,6
+wapato,wa,4997,2
+ridgefield,wa,4763,56
+blaine,wa,4684,27
+sultan,wa,4651,11
+buckley,wa,4354,15
+black diamond,wa,4151,7
+montesano,wa,3976,16
+deer park,wa,3652,2
+forks,wa,3532,12
+goldendale,wa,3407,18
+granite falls,wa,3364,8
+moxee,wa,3308,4
+granger,wa,3246,1
+elma,wa,3107,14
+medina,wa,2969,13
+zillah,wa,2964,2
+raymond,wa,2882,3
+chewelah,wa,2607,2
+everson,wa,2481,28
+kalama,wa,2344,24
+white salmon,wa,2224,2
+gold bar,wa,2075,17
+castle rock,wa,1982,16
+leavenworth,wa,1965,1
+cle elum,wa,1872,77
+rainier,wa,1794,2
+carnation,wa,1786,14
+tenino,wa,1695,11
+ritzville,wa,1673,6
+mccleary,wa,1653,4
+mccleary,wa,1653,4
+cosmopolis,wa,1649,2
+kettle falls,wa,1595,4
+stevenson,wa,1465,12
+long beach,wa,1392,1
+winlock,wa,1339,14
+nooksack,wa,1338,1
+sumas,wa,1307,7
+morton,wa,1126,1
+republic,wa,1073,1
+langley,wa,1035,6
+north bonneville,wa,956,1
+ilwaco,wa,936,5
+roy,wa,793,18
+rock island,wa,788,1
+tekoa,wa,778,1
+mossyrock,wa,759,5
+toledo,wa,725,15
+bingen,wa,712,4
+oakville,wa,684,2
+sprague,wa,446,9
+spangle,wa,278,4
+charleston,wv,51400,105
+huntington,wv,49138,33
+parkersburg,wv,31492,7
+morgantown,wv,29660,44
+wheeling,wv,28486,28
+fairmont,wv,18704,15
+beckley,wv,17614,6
+martinsburg,wv,17227,9
+clarksburg,wv,16578,5
+south charleston,wv,13450,34
+bluefield,wv,10447,18
+bridgeport,wv,8149,12
+dunbar,wv,7907,10
+nitro,wv,7178,10
+princeton,wv,6432,12
+hurricane,wv,6284,16
+keyser,wv,5439,1
+grafton,wv,5164,1
+weston,wv,4110,5
+ravenswood,wv,3876,4
+ripley,wv,3252,15
+kenova,wv,3216,2
+williamson,wv,3191,1
+williamstown,wv,2908,2
+white sulphur springs,wv,2444,7
+spencer,wv,2322,1
+shinnston,wv,2201,1
+mannington,wv,2063,1
+salem,wv,1586,7
+benwood,wv,1420,1
+mount hope,wv,1414,8
+pennsboro,wv,1171,1
+cameron,wv,946,1
+milwaukee,wi,594833,1926
+madison,wi,233209,395
+green bay,wi,104057,159
+kenosha,wi,99218,100
+racine,wi,78860,13
+appleton,wi,72623,102
+waukesha,wi,70718,111
+oshkosh,wi,66083,24
+eau claire,wi,65883,20
+janesville,wi,63575,42
+la crosse,wi,51320,13
+sheboygan,wi,49288,35
+fond du lac,wi,43021,4
+fond du lac,wi,43021,4
+new berlin,wi,39584,47
+wausau,wi,39106,14
+brookfield,wi,37920,104
+beloit,wi,36966,54
+franklin,wi,35451,3
+oak creek,wi,34451,100
+manitowoc,wi,33736,6
+west bend,wi,31078,8
+sun prairie,wi,29364,23
+superior,wi,27244,2
+stevens point,wi,26717,26
+neenah,wi,25501,45
+fitchburg,wi,25260,2
+watertown,wi,23861,7
+de pere,wi,23800,46
+mequon,wi,23132,21
+wisconsin rapids,wi,18367,7
+cudahy,wi,18267,7
+onalaska,wi,17736,19
+middleton,wi,17442,2
+menasha,wi,17353,10
+menomonie,wi,16264,15
+beaver dam,wi,16214,6
+oconomowoc,wi,15759,36
+kaukauna,wi,15462,8
+whitewater,wi,14390,5
+hartford,wi,14223,10
+chippewa falls,wi,13661,19
+pewaukee,wi,13195,24
+hudson,wi,12719,30
+stoughton,wi,12611,19
+fort atkinson,wi,12368,2
+baraboo,wi,12048,15
+waupun,wi,11340,6
+marinette,wi,10968,2
+monroe,wi,10827,2
+verona,wi,10619,11
+burlington,wi,10464,7
+portage,wi,10324,38
+elkhorn,wi,10084,13
+sparta,wi,9522,2
+shawano,wi,9305,9
+reedsburg,wi,9200,5
+tomah,wi,9093,27
+delavan,wi,8463,9
+plymouth,wi,8445,10
+rice lake,wi,8438,1
+antigo,wi,8234,7
+ashland,wi,8216,3
+jefferson,wi,7973,3
+rhinelander,wi,7798,5
+sheboygan falls,wi,7775,10
+lake geneva,wi,7651,4
+new london,wi,7295,11
+delafield,wi,7085,35
+altoona,wi,6706,5
+waupaca,wi,6069,9
+prairie du chien,wi,5911,1
+lake mills,wi,5708,6
+milton,wi,5546,6
+edgerton,wi,5461,37
+mayville,wi,5154,7
+evansville,wi,5012,4
+columbus,wi,4991,8
+dodgeville,wi,4693,5
+clintonville,wi,4559,3
+oconto,wi,4513,2
+mauston,wi,4423,8
+prescott,wi,4258,2
+mosinee,wi,3988,11
+black river falls,wi,3622,12
+stanley,wi,3608,4
+bloomer,wi,3539,4
+omro,wi,3517,4
+barron,wi,3423,2
+tomahawk,wi,3397,4
+waterloo,wi,3333,1
+brodhead,wi,3293,1
+brillion,wi,3148,1
+lodi,wi,3050,6
+oconto falls,wi,2891,1
+mondovi,wi,2777,1
+wisconsin dells,wi,2678,8
+nekoosa,wi,2580,4
+new lisbon,wi,2554,9
+mineral point,wi,2487,1
+neillsville,wi,2463,4
+park falls,wi,2462,1
+abbotsford,wi,2310,4
+wautoma,wi,2218,1
+westby,wi,2200,5
+schofield,wi,2169,1
+washburn,wi,2117,1
+adams,wi,1967,4
+weyauwega,wi,1900,5
+colby,wi,1852,1
+osseo,wi,1701,13
+thorp,wi,1621,2
+whitehall,wi,1558,1
+augusta,wi,1550,3
+hurley,wi,1547,5
+montello,wi,1495,1
+cornell,wi,1467,2
+hillsboro,wi,1417,1
+eagle river,wi,1398,3
+blair,wi,1366,1
+alma,wi,781,2
+cheyenne,wy,59466,20
+casper,wy,55316,3
+laramie,wy,30816,29
+gillette,wy,29087,5
+rock springs,wy,23036,4
+sheridan,wy,17444,1
+green river,wy,12515,12
+evanston,wy,12359,7
+cody,wy,9520,2
+rawlins,wy,9259,14
+torrington,wy,6501,4
+douglas,wy,6120,3
+buffalo,wy,4585,2
+kemmerer,wy,2656,3

@@ -1,0 +1,285 @@
+city,state,population,accidents
+atlanta,GA,420003,11469
+columbus,GA,189885,41
+savannah,GA,136286,356
+macon,GA,91351,353
+roswell,GA,88346,80
+albany,GA,77434,46
+warner robins,GA,66588,15
+alpharetta,GA,57551,292
+marietta,GA,56579,546
+valdosta,GA,54518,50
+smyrna,GA,51271,182
+rome,GA,36303,19
+gainesville,GA,33804,85
+east point,GA,33712,1
+hinesville,GA,33437,12
+dalton,GA,33128,73
+newnan,GA,33039,114
+douglasville,GA,30961,54
+kennesaw,GA,29783,196
+lagrange,GA,29588,50
+lagrange,GA,29588,50
+lawrenceville,GA,28546,117
+statesboro,GA,28422,10
+duluth,GA,26600,252
+stockbridge,GA,25636,344
+carrollton,GA,24388,8
+woodstock,GA,23896,59
+griffin,GA,23643,54
+canton,GA,22958,88
+mcdonough,GA,22084,204
+mcdonough,GA,22084,204
+acworth,GA,20425,77
+cartersville,GA,19731,97
+decatur,GA,19335,1006
+pooler,GA,19140,70
+sugar hill,GA,18522,1
+forest park,GA,18468,228
+thomasville,GA,18413,6
+snellville,GA,18242,29
+milledgeville,GA,17715,24
+americus,GA,17041,4
+tifton,GA,16350,29
+dublin,GA,16201,21
+kingsland,GA,15946,14
+fayetteville,GA,15945,35
+calhoun,GA,15650,47
+brunswick,GA,15383,62
+suwanee,GA,15355,55
+conyers,GA,15195,85
+riverdale,GA,15134,1
+waycross,GA,14649,5
+moultrie,GA,14268,1
+winder,GA,14099,19
+villa rica,GA,13956,55
+powder springs,GA,13940,13
+perry,GA,13839,50
+monroe,GA,13234,39
+covington,GA,13118,61
+fairburn,GA,12950,80
+bainbridge,GA,12697,8
+buford,GA,12225,166
+lilburn,GA,11596,11
+douglas,GA,11589,4
+dallas,GA,11544,14
+grovetown,GA,11216,57
+cordele,GA,11147,13
+vidalia,GA,10473,2
+loganville,GA,10458,55
+fort valley,GA,9815,35
+cedartown,GA,9750,9
+cairo,GA,9607,2
+jefferson,GA,9432,62
+richmond hill,GA,9281,24
+fort oglethorpe,GA,9263,2
+thomaston,GA,9170,10
+norcross,GA,9116,335
+fitzgerald,GA,9053,2
+toccoa,GA,8491,10
+clarkston,GA,7554,115
+swainsboro,GA,7277,3
+centerville,GA,7148,3
+hampton,GA,6987,4
+thomson,GA,6778,28
+barnesville,GA,6755,12
+austell,GA,6581,110
+commerce,GA,6544,47
+eatonton,GA,6480,9
+morrow,GA,6445,79
+bremen,GA,6227,32
+sylvester,GA,6188,9
+sandersville,GA,5912,2
+stone mountain,GA,5802,72
+waynesboro,GA,5766,6
+flowery branch,GA,5679,20
+cumming,GA,5430,33
+locust grove,GA,5402,60
+camilla,GA,5360,5
+port wentworth,GA,5359,71
+adel,GA,5334,8
+dahlonega,GA,5242,3
+cochran,GA,5150,5
+blakely,GA,5068,2
+jackson,GA,5045,98
+eastman,GA,4962,4
+reidsville,GA,4944,3
+nashville,GA,4939,1
+jonesboro,GA,4724,19
+elberton,GA,4653,2
+adairsville,GA,4648,23
+hawkinsville,GA,4589,4
+dawson,GA,4540,6
+summerville,GA,4534,13
+byron,GA,4512,31
+palmetto,GA,4488,22
+hartwell,GA,4469,1
+dacula,GA,4442,18
+baxley,GA,4400,2
+lyons,GA,4367,8
+chatsworth,GA,4299,10
+social circle,GA,4262,28
+manchester,GA,4230,1
+temple,GA,4228,39
+rockmart,GA,4199,3
+cornelia,GA,4160,7
+ashburn,GA,4152,6
+washington,GA,4134,12
+metter,GA,4130,15
+rossville,GA,4105,6
+hephzibah,GA,4011,210
+vienna,GA,4011,17
+madison,GA,3979,34
+oakwood,GA,3970,3
+pelham,GA,3898,2
+quitman,GA,3850,9
+unadilla,GA,3796,7
+forsyth,GA,3788,85
+jasper,GA,3684,16
+ringgold,GA,3580,50
+glennville,GA,3569,2
+hiram,GA,3546,3
+west point,GA,3474,14
+alma,GA,3466,6
+blackshear,GA,3445,1
+ocilla,GA,3414,4
+cleveland,GA,3410,14
+greensboro,GA,3359,40
+senoia,GA,3307,16
+gray,GA,3276,5
+tallapoosa,GA,3170,13
+millen,GA,3120,2
+soperton,GA,3115,18
+chickamauga,GA,3101,3
+hogansville,GA,3060,26
+grantville,GA,3041,14
+tybee island,GA,2990,2
+avondale estates,GA,2960,26
+sylvania,GA,2956,4
+leesburg,GA,2896,9
+springfield,GA,2852,1
+watkinsville,GA,2832,9
+lula,GA,2758,6
+claxton,GA,2746,5
+lumpkin,GA,2741,2
+hahira,GA,2737,14
+bloomingdale,GA,2713,27
+grayson,GA,2666,11
+harlem,GA,2666,17
+monticello,GA,2657,5
+donalsonville,GA,2650,4
+royston,GA,2582,1
+dawsonville,GA,2536,40
+folkston,GA,2502,5
+louisville,GA,2493,4
+east dublin,GA,2441,12
+statham,GA,2408,3
+trenton,GA,2301,29
+pembroke,GA,2196,12
+wrightsville,GA,2195,2
+wrens,GA,2187,5
+buena vista,GA,2173,1
+lavonia,GA,2156,32
+oxford,GA,2134,7
+midway,GA,2121,9
+pearson,GA,2117,4
+wadley,GA,2061,2
+clayton,GA,2047,2
+bowdon,GA,2040,2
+colquitt,GA,1992,10
+darien,GA,1975,16
+butler,GA,1972,1
+warrenton,GA,1937,5
+lithonia,GA,1924,153
+demorest,GA,1823,4
+ellaville,GA,1812,2
+clarkesville,GA,1733,23
+ludowici,GA,1703,1
+guyton,GA,1684,3
+ellijay,GA,1619,23
+union point,GA,1617,1
+lincolnton,GA,1566,3
+richland,GA,1473,6
+marshallville,GA,1448,1
+ball ground,GA,1433,10
+porterdale,GA,1429,1
+woodbine,GA,1412,18
+sparta,GA,1400,1
+brooklet,GA,1395,6
+hoschton,GA,1377,36
+oglethorpe,GA,1328,1
+blue ridge,GA,1290,2
+cave spring,GA,1200,1
+broxton,GA,1189,1
+zebulon,GA,1174,10
+buchanan,GA,1104,2
+reynolds,GA,1086,3
+nahunta,GA,1053,1
+jeffersonville,GA,1035,8
+meigs,GA,1035,2
+hamilton,GA,1016,7
+roberta,GA,1007,3
+sardis,GA,999,2
+franklin,GA,993,22
+woodbury,GA,961,2
+hiawassee,GA,880,1
+greenville,GA,876,10
+luthersville,GA,874,2
+bowman,GA,862,1
+tunnel hill,GA,856,8
+riceboro,GA,809,11
+rutledge,GA,781,6
+plains,GA,776,1
+glenwood,GA,747,4
+lake park,GA,733,12
+patterson,GA,730,1
+blythe,GA,721,19
+fairmount,GA,720,3
+white,GA,670,10
+cohutta,GA,661,1
+newton,GA,654,1
+flovilla,GA,653,4
+blairsville,GA,652,4
+waleska,GA,644,2
+kingston,GA,637,6
+pavo,GA,627,1
+leary,GA,618,1
+milner,GA,610,3
+uvalda,GA,598,3
+collins,GA,584,1
+carnesville,GA,577,19
+smithville,GA,575,1
+dudley,GA,571,6
+crawfordville,GA,534,11
+hoboken,GA,528,2
+waco,GA,516,32
+helen,GA,510,1
+odum,GA,504,2
+pinehurst,GA,455,10
+attapulgus,GA,449,3
+shiloh,GA,445,7
+stapleton,GA,438,2
+ailey,GA,432,1
+warm springs,GA,425,2
+mansfield,GA,410,3
+leslie,GA,409,1
+ambrose,GA,380,1
+concord,GA,375,1
+jenkinsburg,GA,370,3
+molena,GA,368,5
+williamson,GA,352,2
+cobbtown,GA,351,2
+chauncey,GA,342,1
+plainville,GA,313,2
+rentz,GA,295,1
+white plains,GA,284,1
+damascus,GA,254,2
+morgan,GA,240,1
+norwood,GA,239,13
+gillsville,GA,235,2
+lexington,GA,228,3
+garfield,GA,201,2
+de soto,GA,195,2
+meansville,GA,182,1
+culloden,GA,175,4
+jakin,GA,155,1

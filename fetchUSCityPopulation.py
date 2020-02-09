@@ -60,6 +60,8 @@ def extractData():
                 if(len(state) > 0):
                     state[1] = getStateCode(state[1])
 
+            # print(cityPopulation)
+
             return (cityPopulation)
 
             

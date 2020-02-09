@@ -35,8 +35,12 @@ def readGAAccidentsData():
 
 
 def getUSACityPopulationAccidents():
+    print("Inside getUSACityPopulationAccidents")
     cityAccidents = readUSAccidentsData()
-    cityPopulation = us_city_population.extractData()
+    print("After calling dataframe")
+    # cityPopulation = us_city_population.extractData()
+    cityPopulation = ga_city_population.populationByUSACities()
+    print("After webscrap")
     # print(cityAccidents)
     city_population_accidents = []
     for city in cityPopulation:
@@ -53,15 +57,17 @@ def getUSACityPopulationAccidents():
                         "accidents":city[3]
                     })
 
+    # print(city_population_accidents)
     dao.insertUSCityPopulation(city_population_accidents)
     city_pop_accidents = dao.getUSCityPopulation()
-    print(city_pop_accidents)
+    # print(city_pop_accidents)
+    print("USA City Process Completed")
     # (cities_list)
 
 
 def getGACityPopulationAccidents():
     cityAccidents = readGAAccidentsData()
-    cityPopulation = ga_city_population.populationByCities()
+    cityPopulation = ga_city_population.populationByGACities()
     # print(cityAccidents)
     city_population_accidents = []
     for city in cityPopulation:
@@ -74,14 +80,15 @@ def getGACityPopulationAccidents():
                     city_population_accidents.append({
                         "city":city[0],
                         "state":"GA",
-                        "population":city[1],
-                        "accidents":city[2]
+                        "population":city[2],
+                        "accidents":city[3]
                     })
 
     # print(city_population_accidents)
     dao.insertGACityPopulation(city_population_accidents)
     city_pop_accidents = dao.getGACityPopulation()
-    print(city_pop_accidents)
+    # print(city_pop_accidents)
+    print("GA City Process Completed")
 
 
 getUSACityPopulationAccidents()
