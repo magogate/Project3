@@ -3,6 +3,18 @@ import fetchUSCityPopulation as us_city_population
 import fetchGACityPopulation as ga_city_population
 import dao as dao
 
+def readCityTransportData():
+    city_state_transport = []
+    df_usa_transport = pd.read_csv(".\\US_Accidents_Dec19\\USA_Cities_PublicTransport.csv")
+    # city_state_transport
+    for index, row in df_usa_transport.iterrows():
+        city_state = []
+        city_state.append(row["City-State"].split(",")[0].strip().lower())
+        city_state.append(row["City-State"].split(",")[1].strip().lower())
+        city_state.append(row["PublicTransportNumbers"])
+        city_state_transport.append(city_state)
+    return (city_state_transport)
+
 def readUSAccidentsData():
     df_usa_accidents = pd.read_csv(".\\US_Accidents_Dec19\\US_Accidents_2018.csv")
     df_acc_by_city = df_usa_accidents.loc[:,["ID","City","State"]].groupby(["City","State"]).count()
@@ -56,6 +68,13 @@ def getUSACityPopulationAccidents():
                         "population":city[2],
                         "accidents":city[3]
                     })
+    print("Assiging transport data")
+    for city in city_population_accidents:        
+        print(city)
+        city["transportation"] = 0.1
+        for c in readCityTransportData():
+            if(city["city"] == c[0] and city["state"] == c[1]):
+                city["transportation"] = c[2]   
 
     # print(city_population_accidents)
     dao.insertUSCityPopulation(city_population_accidents)
@@ -79,10 +98,16 @@ def getGACityPopulationAccidents():
                     # print(city)
                     city_population_accidents.append({
                         "city":city[0],
-                        "state":"GA",
+                        "state":"ga",
                         "population":city[2],
                         "accidents":city[3]
                     })
+
+    for city in city_population_accidents:        
+        city["transportation"] = 0.1
+        for c in readCityTransportData():
+            if(city["city"] == c[0] and city["state"] == c[1]):
+                city["transportation"] = c[2]                
 
     # print(city_population_accidents)
     dao.insertGACityPopulation(city_population_accidents)
@@ -94,3 +119,4 @@ def getGACityPopulationAccidents():
 getUSACityPopulationAccidents()
 
 getGACityPopulationAccidents()
+
