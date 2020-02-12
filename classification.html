@@ -53,10 +53,16 @@
             <h2>Predicting Severity</h2>
             <div>
                 <select id="selectFilters" class="browser-default custom-select">
-                  <option value="accidents">Accidents</option>                                   
-                  <option value="population">Population</option>
+                  <option value="TMC">TMC</option>                                   
+                  <option value="Temperature(F)">Temperature(F)</option>
+                  <option value="Humidity(%)">Humidity(%)</option>
+                  <option value="Weather_Condition">Weather_Condition</option>                  
                 </select>                    
+            </div>
+            <div class="col col-lg-12">
+              <div id="violinePlot">
               </div>
+            </div>
         </div>
       </section>
 
@@ -107,8 +113,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
     <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 
-    <script src="static/js/regressionMain.js"></script>
-    <script src="static/js/scatterChartPlotly.js"></script>
+    <script src="static/js/classificationMain.js"></script>    
     <script src="static/js/violinePlot.js"></script>
 
   </body>

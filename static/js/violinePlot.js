@@ -7,8 +7,6 @@ function renderViolinePlot(myData, id, column){
     return myData.map(function(myData) { return myData[key]; });
   }
 
-  console.log(myData)
-  console.log(unpack(myData, column))
 
 var data = [{
   type: 'violin',
@@ -38,6 +36,6 @@ var layout = {
     }
 }
 
-Plotly.newPlot(id, data, layout);
+  Plotly.newPlot(id, data, layout);
 
 }

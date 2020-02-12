@@ -1,6 +1,14 @@
-d3.csv("https://usacity-accidents-population.herokuapp.com/gacities").then(function(myData, err) {
-    ga_cities = myData
-    renderScatterChart(myData, "scatterPlotGA", "value", "population", "City")
-    renderViolinePlot(myData, "violinePlotGA", 'accidents')
-    renderUSAScatterPlot()
+let selectFilters = d3.select("#selectFilters");
+let accidentData;
+
+d3.csv("\\US_Accidents_Dec19\\US_Accidents_2018.csv").then(function(myData, err) {
+    accidentData = myData;  
+    renderViolinePlot(myData, "violinePlot", 'TMC')
 })//end of d3.csv
+
+
+selectFilters.on("change", function(d){        
+    console.log("hiiiiiii")    
+    let colName = selectFilters.property("value");
+    renderViolinePlot(accidentData, "violinePlot", colName)    
+})//end of cmbLocation
