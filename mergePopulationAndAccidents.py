@@ -1,6 +1,7 @@
 import pandas as pd
 import fetchUSCityPopulation as us_city_population
 import fetchGACityPopulation as ga_city_population
+import fetchUSCountyPopulation as us_county_population
 import dao as dao
 
 def readCityTransportData():
@@ -45,6 +46,14 @@ def readGAAccidentsData():
 
     return (city_state_accidents)
 
+
+def getUSCountyPopulationAccidents():
+    print("Inside getUSCountyPopulationAccidents")
+    dao.insertUSCountyPopulation(us_county_population.readUSCountyPopulationAndAccidents())
+    county_pop_accidents = dao.getUSCountyPopulation()
+    # print(city_pop_accidents)
+    # print(county_pop_accidents)
+    print("USA City Process Completed")
 
 def getUSACityPopulationAccidents():
     print("Inside getUSACityPopulationAccidents")
@@ -120,3 +129,4 @@ getUSACityPopulationAccidents()
 
 getGACityPopulationAccidents()
 
+getUSCountyPopulationAccidents()
