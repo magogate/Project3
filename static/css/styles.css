@@ -31,7 +31,8 @@
 
 hr{
     width: 5%;
-    stroke: black;
+    stroke: black;   
+    border-top: 5px dotted;      
 }
 
 /* Header Section Ends */

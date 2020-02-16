@@ -11,6 +11,8 @@
 function renderScatterChart(myData, id, xAxis, yAxis, col){
 
     // d3.select(".plot-container.plotly").remove();
+
+    // console.log(myData)
   
     let xVal = [];
     let yVal = [];
@@ -18,7 +20,8 @@ function renderScatterChart(myData, id, xAxis, yAxis, col){
     myData.forEach(function(d){
       xVal.push(d.accidents);
       yVal.push(d.population);
-      label.push(d.city + "(" + d.state +")")
+      // console.log(col)
+      label.push(d[col])
     })
   
       var trace1 = {

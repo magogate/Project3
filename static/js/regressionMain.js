@@ -3,9 +3,9 @@ let selectFilters = d3.select("#selectFilters");
 let ga_cities;
 let usa_cities;
 
-d3.json("https://usacity-accidents-population.herokuapp.com/gacities").then(function(myData, err) {
+d3.json("https://usacity-accidents-population.herokuapp.com/allcities").then(function(myData, err) {
     ga_cities = myData
-    renderScatterChart(myData, "scatterPlotGA", "value", "population", "City")
+    renderScatterChart(myData, "scatterPlotGA", "value", "population", "city")
     renderViolinePlot(myData, "violinePlotGA", 'accidents')
     renderUSAScatterPlot()
 })//end of d3.csv
@@ -13,9 +13,9 @@ d3.json("https://usacity-accidents-population.herokuapp.com/gacities").then(func
 
 function renderUSAScatterPlot(){
 
-    d3.json("https://usacity-accidents-population.herokuapp.com/allcities").then(function(myData, err) {
+    d3.json("https://usacity-accidents-population.herokuapp.com/allcounties").then(function(myData, err) {
         usa_cities = myData
-        renderScatterChart(myData, "scatterPlotUS", "value", "population", "City")
+        renderScatterChart(myData, "scatterPlotUS", "value", "population", "county")
         renderViolinePlot(myData, "violinePlotUS", 'accidents')
     })//end of d3.csv
 
