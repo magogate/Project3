@@ -1,4 +1,5 @@
 import pickle
+import sklearn
 from flask import Flask, jsonify, render_template, flash, request
 
 app = Flask(__name__, static_url_path='/static')
@@ -7,7 +8,8 @@ random_forest_classifier = ""
 
 @app.route("/")
 def index():    
-    random_forest_classifier = pickle.load(open("models/random_forest_classifier_important", 'rb'))
+    random_forest_classifier = pickle.load(open("models/k_neares_neighbour", 'rb'))
+    print(sklearn.__version__)
     return render_template("index.html")  
 
 # https://scotch.io/bar-talk/processing-incoming-request-data-in-flask
