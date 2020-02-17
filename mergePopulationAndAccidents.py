@@ -125,8 +125,8 @@ def getGACityPopulationAccidents():
     print("GA City Process Completed")
 
 
-getUSACityPopulationAccidents()
+# getUSACityPopulationAccidents()
 
-getGACityPopulationAccidents()
+# getGACityPopulationAccidents()
 
 getUSCountyPopulationAccidents()

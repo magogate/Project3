@@ -4,11 +4,10 @@ from flask import Flask, jsonify, render_template, flash, request
 
 app = Flask(__name__, static_url_path='/static')
 
-random_forest_classifier = ""
 
 @app.route("/")
 def index():    
-    random_forest_classifier = pickle.load(open("models/k_neares_neighbour", 'rb'))
+    
     print(sklearn.__version__)
     return render_template("index.html")  
 
@@ -44,6 +43,9 @@ def classification():
     input_list.append(time_duration)
 
     print(input_list)
+
+    random_forest_classifier = pickle.load(open("models/random_forest_classifier_important", 'rb'))
+    print(random_forest_classifier.predict([[5748.0, 35.282955, -109.211617, 1.0, 201.0, 34.0, 31.0, 90.0, 29.62,9.0, 4.0, 2, 175.0]]))
     
     return render_template("classification.html")  
 
