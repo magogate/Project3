@@ -15,11 +15,23 @@
     <link href="https://fonts.googleapis.com/css?family=Fondamento&display=swap" rel="stylesheet">
 
     <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
     <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
     
     <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css" rel="stylesheet" />
     <title>GA Acccident Analysis</title>
+
+    <script type="text/javascript">
+      console.log( '{{ outlist[2] }}'  )
+      function codeAddress() {
+        renderMap("{{ outlist[1] }}", "{{ outlist[2] }}", "{{ outlist[0] }}")
+      }
+      window.onload = codeAddress;
+      </script>
+
+
   </head>
   <body>
       <section class="header">        
@@ -135,79 +147,79 @@
                 <div class="form-group row">
                   <label for="City" class="col-sm-6 col-form-label">City</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="City" name="City">
+                    <input type="text" class="form-control" id="City" name="City" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Start_Lat" class="col-sm-6 col-form-label">Start_Lat</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Start_Lat" name="Start_Lat">
+                    <input type="text" class="form-control" id="Start_Lat" name="Start_Lat" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Start_Lng" class="col-sm-6 col-form-label">Start_Lng</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Start_Lng" name="Start_Lng">
+                    <input type="text" class="form-control" id="Start_Lng" name="Start_Lng" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Traffic_Signal" class="col-sm-6 col-form-label">Traffic_Signal</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Traffic_Signal" name="Traffic_Signal">
+                    <input type="text" class="form-control" id="Traffic_Signal" name="Traffic_Signal" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="TMC" class="col-sm-6 col-form-label">TMC</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="TMC" name="TMC">
+                    <input type="text" class="form-control" id="TMC" name="TMC" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Temprature" class="col-sm-6 col-form-label">Temprature(F)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Temprature" name="Temprature">
+                    <input type="text" class="form-control" id="Temprature" name="Temprature" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Wind_Chill" class="col-sm-6 col-form-label">Wind_Chill(F)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Wind_Chill" name="Wind_Chill">
+                    <input type="text" class="form-control" id="Wind_Chill" name="Wind_Chill" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Humidity" class="col-sm-6 col-form-label">Humidity(%)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Humidity" name="Humidity">
+                    <input type="text" class="form-control" id="Humidity" name="Humidity" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Pressure" class="col-sm-6 col-form-label">Pressure(in)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Pressure" name="Pressure">
+                    <input type="text" class="form-control" id="Pressure" name="Pressure" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Wind_Speed" class="col-sm-6 col-form-label">Wind_Speed(mph)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Wind_Speed" name="Wind_Speed">
+                    <input type="text" class="form-control" id="Wind_Speed" name="Wind_Speed" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Hour" class="col-sm-6 col-form-label">Hour</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Hour" name="Hour">
+                    <input type="text" class="form-control" id="Hour" name="Hour" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Weekday" class="col-sm-6 col-form-label">Weekday</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Weekday" name="Weekday">
+                    <input type="text" class="form-control" id="Weekday" name="Weekday" >
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="Time_Duration" class="col-sm-6 col-form-label">Time_Duration(min)</label>
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="Time_Duration" name="Time_Duration">
+                    <input type="text" class="form-control" id="Time_Duration" name="Time_Duration" >
                   </div>
                 </div>
                 <div class="form-group row">
@@ -218,7 +230,9 @@
               </form>
             </div>
             <div class="col-9">
-              
+              <div id="map">
+
+              </div>
             </div>
           </div>
         </div>
@@ -230,6 +244,7 @@
         </div>
       </section>
 
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
@@ -237,14 +252,17 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     
     <!-- Leaflet JavaScript -->
-    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
     <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js"></script>
-    <!--<script type="text/javascript" src="static/js/leaflet.extra-markers.min.js"></script>-->
+    <!-- <script type="text/javascript" src="static/js/leaflet.extra-markers.min.js"></script> -->
     <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
     <!-- Leaflet heatmap plugin-->
-    <!--<script type="text/javascript" src="static/js/leaflet-heat.js"></script>-->
+    <!-- <script type="text/javascript" src="static/js/leaflet-heat.js"></script> -->
     <!-- API key -->
-    <!--<script type="text/javascript" src="static/js/config.js"></script>-->
+    <script type="text/javascript" src="static/js/config.js"></script>
 
     <!-- D3 JS Files -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -254,7 +272,9 @@
     <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 
     <script src="static/js/classificationMain.js"></script>    
-    <script src="static/js/violinePlot.js"></script>
+    <!-- <script src="static/js/violinePlot.js"></script> -->
+    <!-- API key -->
+    
 
   </body>
 </html>
