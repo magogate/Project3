@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="static/img/favicon.ico">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- internal css -->
+    <link rel="stylesheet" href="static/css/styles.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fondamento&display=swap" rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+    
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css" rel="stylesheet" />
+    <title>GA Acccident Analysis</title>
+ </head>
+
+ <body>
+    <section class="header">        
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">                    
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="#" id="icon">G7</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/">Regression</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/classification">Classifiaction</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">References<span class="sr-only">(current)</span></a>
+              </li>
+            </ul>
+          </div>
+        </nav>   
+      </div>
+    </section>
+
+    <section class="violine">
+        <div class="container">
+            <h2>Deployment & Setup</h2>
+            <h5>
+              There are different components in project3 and corresponding technical details are discussed as follows
+              <br>
+              <br>              
+              <ul>
+                <li>
+                    <strong>Data</strong> --
+                    For Regression Analysis of Accidents count by City & County - we have filtered Year - 2018 accidents data from main file downloaded from Kaggle
+                </li>
+                <br>
+                <li>
+                    <strong>Population</strong> --
+                    In Kaggle file, only accident data was available. So, Population by city & county was webscrap using python program.
+                </li>
+                <br>
+                <li>
+                    <strong>MongoDB-Atlas</strong> --
+                    Both population & accidents for City & County was merged and loaded into MongoDB-Atlas using Python program
+                </li>
+                <br>
+                <li>
+                    <strong>Heroku-API</strong> --
+                    Created Flask API and deployed that on Heroku-API, so that data can be easily consumed
+                </li>
+                <br>
+                <li>
+                    <strong>Colab Notebook</strong> --
+                    Final regression analysis was done consuming data from Heroku-API on Colab Notebook
+                </li>
+                <br>
+                <li>
+                    <strong>CSV for Classifiaction</strong> --
+                    Main accidents csv file from Kaggle was of 1+GB, we tried to move the data to MongoDB-Atlas - however that allows only 500MB space. So we decided to use csv file in Jupyter Notebook itself.
+                </li>
+                <br>
+                <li>
+                    <strong>Model Creation</strong> --
+                    Classifiaction analysis was done on different models and also corresponding models we saved locallay at /models directoy from Jupyter Notebook
+                </li>
+                <br>
+                <li>
+                    <strong>Load model using Flask</strong> --
+                    We load the pre-saved "Random Forest Classifier" model using Flask/Python code. Model file is not uploaded at Git because of size. So, in case if you clone the repository in future, you need to create the model by running ipynb file of <a href="https://colab.research.google.com/drive/1COrR-m5k8eVPTgRthDFGAfUChZXRHsde">Jupyter Notebook</a> locally [for that you also need to download main accidents csv file from kaggle.] Once models gets created, move them into /models directoy by creating it. So that Flask/Python code can find it
+                </li>
+                <br>
+                <li>
+                    <strong>Inputs using HTML</strong> --
+                    Using HTML code, we took inputs from user and passed those values to model using Flask/Python code. Model will consume the input values and will return corresponding Severity
+                </li>
+                <br>
+                <li>
+                    <strong>Leaflet Map</strong> --
+                    Finally Severity & Lag-Long values are displayed on Leaflet-Map on same html page. 
+                </li>
+                <br>
+                <li>
+                    <strong>Running Flask API</strong> --
+                    If you are reading this currently on Git directly, you won't be able to see Leaflet-Map and corresponding interactivity. Download the code or Clone the repository and then run <code>python.exe .\predictionApp.py</code> command. This will start Flask webserver and you will be able to call model by passing corresponding parameters.
+                </li>
+                <br>
+                <li>
+                    <strong>Issues -- Creating Model </strong> --
+                    Make sure while creating a model you will have 64-bit python installed. Assuming you are creating models from <a href="https://colab.research.google.com/drive/1COrR-m5k8eVPTgRthDFGAfUChZXRHsde">Jupyter Notebook</a>, if you have that as 32 bit, it gives memory error. So its better to install 64-bit Anaconda-Jupyter Notebook
+                </li>
+                <br>
+                <li>
+                    <strong>Issues -- Consuming Model </strong> --
+                    Since we wanted take inputs from users, we could not use Jupyter Notebook for reading a model. So instead we used Visual Studio code, which was a separate environment itself. While reading model using Flask it gave an error as - "ValueError: Buffer dtype mismatch, expected 'SIZE_t' but got 'long long'". After Googling - we realized that its happening because of version difference. When we validated again, we realized our Jupyter / Anaconda environment was of 64 bit whereas Visual Studio was using 32 bit python. After un-installing 32-bit python and re-installing 64-bit, program started working.
+                </li>
+                <br>
+              </ul>
+            </h5>
+        </div>
+      </section>
+
+    <section class="footer">
+        <div class="container">
+          <h6>Group 7 © No Copyrights whatsoever..We are happy if we are useful by anyway..Happy Coding!</h6>
+        </div>
+      </section>
+
+
+   </body>
+</html>

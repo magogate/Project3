@@ -9,8 +9,8 @@ def readUSCountyPopulationAndAccidents():
         if(row[0] != "Grand Total"):
             us_county.append({
                 "county":row[0].lower(),
-                "population":row[1],
-                "accidents":row[2]
+                "population":row[2],
+                "accidents":row[1]
             })
 
     # print(us_county)
