@@ -9,6 +9,10 @@ app = Flask(__name__, static_url_path='/static')
 def index():        
     return render_template("index.html")  
 
+@app.route("/references")
+def references():        
+    return render_template("references.html")  
+
 # https://scotch.io/bar-talk/processing-incoming-request-data-in-flask
 @app.route("/classification", methods=["POST","GET"])
 def classification():        
